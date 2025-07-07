@@ -23,7 +23,7 @@ joblib = "^1.4.2"
 
 [tool.poetry.group.test.dependencies]
 moto = "^5.0"
-mock = "^5.1"
+mock = "^5.2"
 pytest = "^8.2.0"
 
 [tool.pytest.ini_options]
