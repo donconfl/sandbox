@@ -1,0 +1,23 @@
+ramp_league_id,ramp_event_id,ramp_team_id,description,ramp_player_id,cards_handed_out,time_in_secs
+289,12609321,2972,Brighton & Hove Albion vs Ipswich Town,101182,1,5600
+289,12697151,21,Brentford vs West Ham United,59322,1,5827
+289,12804248,3,Arsenal vs Liverpool,50235,1,5822
+289,12866473,2972,Liverpool vs Brighton & Hove Albion,101182,1,5706
+289,13026617,15,Newcastle United vs Liverpool,4692,1,5719
+289,13303989,8,Everton vs Liverpool,21127,1,6089
+289,13303989,11,Everton vs Liverpool,66255,1,6089
+289,13058812,21,West Ham United vs Wolverhampton Wanderers,34992,1,5951
+289,13058812,8150,West Ham United vs Wolverhampton Wanderers,25322,1,5951
+289,13076323,7,Chelsea vs Brentford,62899,1,5845
+289,13076323,2969,Chelsea vs Brentford,104357,1,5845
+289,13076334,8150,Wolverhampton Wanderers vs Ipswich Town,66268,1,5681
+289,13076334,4939,Wolverhampton Wanderers vs Ipswich Town,100631,1,5681
+289,13149186,4939,Ipswich Town vs Chelsea,6454,1,5789
+289,13177390,9,West Ham United vs Fulham,26128,1,5765
+289,13254876,8,Brighton & Hove Albion vs Everton,119261,1,5959
+289,13254876,2972,Brighton & Hove Albion vs Everton,132042,1,5959
+289,13331884,2935,AFC Bournemouth vs Wolverhampton Wanderers,1944,1,5783
+289,13334690,8,Everton vs Manchester United,8987,1,5920
+289,13501225,9,Arsenal vs Fulham,38432,1,5794
+289,13621907,21,Liverpool vs West Ham United,61900,1,5832
+289,13701728,9,Aston Villa vs Fulham,33595,1,5885

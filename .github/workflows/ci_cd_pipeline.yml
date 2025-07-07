@@ -1,0 +1,65 @@
+on:
+  pull_request_target:
+    branches: [ dev ]
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - ".github/**"
+      - "src/tests/**"
+
+name: CI CD Pipeline
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  install-and-test:
+    name: Install and Run Tests
+    runs-on: ubuntu-self-hosted
+    outputs:
+      VERSION: ${{ steps.install-dependencies.outputs.VERSION }}
+    steps:
+
+      - name: Checkout with ref
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+        if: github.event_name == 'pull_request_target'
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        if: github.event_name != 'pull_request_target'
+          
+      - name: Checkout code - setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: 'pyproject.toml'
+          
+      - name: Install poetry
+        run: pip install poetry
+        
+      - name: Install dependencies
+        id: install-dependencies
+        run: |
+          poetry config virtualenvs.create false
+          poetry install --no-root
+          # get current version
+          version="v$(poetry version -s)"
+          echo "VERSION=$version" >> $GITHUB_OUTPUT
+          
+      - name: Run tests
+        run: |
+          export PYTHONPATH=${GITHUB_WORKSPACE}
+          poetry run pytest
+
+  # uncomment this part when setting ci/cd pipeline for a specific project
+  # out of scope for template
+  # deploy:
+  #   name: Deploy to ECR, Push to S3
+  #   needs: install-and-test
+  #   if: ${{ github.event_name == 'push' }}
+  #   uses: Flutter-Global/ds-sagemaker-deployment-pipeline/.github/workflows/sagemaker-deployment-pipeline.yml@latest
+  #   with:
+  #     environment: 'prod'
+  #     run_tests: false
+  #     release_version: ${{ needs.install-and-test.outputs.VERSION }}
+  #   secrets: inherit

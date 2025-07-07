@@ -1,0 +1,51 @@
+# this pipeline is to be used for building & pushing the docker image to AWS ECR DEV
+# triggered manually
+on:
+  workflow_dispatch:
+
+name: CI CD Pipeline - DEV
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  install-and-test:
+    name: Install and Run Tests
+    runs-on: ubuntu-self-hosted
+    outputs:
+      VERSION: ${{ steps.install-dependencies.outputs.VERSION }}
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+          
+      - name: Checkout code - setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: 'pyproject.toml'
+          
+      - name: Install poetry
+        run: pip install poetry
+        
+      - name: Install dependencies
+        id: install-dependencies
+        run: |
+          poetry config virtualenvs.create false
+          poetry install --no-root
+          # get current version
+          version="v$(poetry version -s)"
+          echo "VERSION=$version" >> $GITHUB_OUTPUT
+          
+      - name: Run tests
+        run: |
+          export PYTHONPATH=${GITHUB_WORKSPACE}
+          poetry run pytest
+
+# This is if you just want to run deploy against push to main
+  # deploy:
+  #   name: Deploy to ECR, Push to S3
+  #   needs: install-and-test
+  #   uses: Flutter-Global/ds-sagemaker-deployment-pipeline/.github/workflows/sagemaker-deployment-pipeline.yml@latest
+  #   with:
+  #     environment: dev
+  #     run_tests: false
+  #   secrets: inherit

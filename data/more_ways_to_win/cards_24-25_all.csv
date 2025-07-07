@@ -1,0 +1,826 @@
+opta_league_id,ramp_league_id,match_id,ramp_event_id,contestant_id,ramp_team_id,description,player_id,player_name,full_time_cards,match_date
+2kwbbcootiqqgmrzs6o5inle5,289,9x16f7izg27mw8l6rxtehfitw,12309965,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Fulham",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2024-08-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,9x16f7izg27mw8l6rxtehfitw,12309965,hzqh7z0mdl3v7gwete66syxp,9,"Manchester United vs Fulham",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2024-08-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,9x16f7izg27mw8l6rxtehfitw,12309965,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Fulham",8nh6qf9i1d0qw7nx4wk25qzth,"M. Mount",1,2024-08-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,9x16f7izg27mw8l6rxtehfitw,12309965,hzqh7z0mdl3v7gwete66syxp,9,"Manchester United vs Fulham",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2024-08-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,9x16f7izg27mw8l6rxtehfitw,12309965,hzqh7z0mdl3v7gwete66syxp,9,"Manchester United vs Fulham",cgvp2cli2gi4cnyl62kt80r11,"T. Cairney",1,2024-08-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,9xlphha9gt647b84dy64ts8b8,12309964,b9si1jn1lfxfund69e9ogcu2n,8150,"Arsenal vs Wolverhampton Wanderers",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9xlphha9gt647b84dy64ts8b8,12309964,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Wolverhampton Wanderers",8tc7dcuwdeqbjgt7vw5p38xgq,"B. Saka",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9xlphha9gt647b84dy64ts8b8,12309964,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Wolverhampton Wanderers",d66tmyj9pt69gub8pcjgo3bh1,"Gabriel Jesus",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9y33z6148qjoh6m1khiu0zdas,12309927,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Brighton & Hove Albion",35jaxclh329duzefna708jk5x,"J. Tarkowski",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9y33z6148qjoh6m1khiu0zdas,12309927,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Brighton & Hove Albion",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9ykfiw5qof30tbfoye9i0o4r8,12309966,c8h9bw1l82s06h77xxrelzhur,11,"Ipswich Town vs Liverpool",9psfk94nduz6icnuwty5v9all,"C. Gakpo",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9z1rpj69c2wne0uyyyetrb0gk,12309863,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Southampton",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9z1rpj69c2wne0uyyyetrb0gk,12309863,d5ydtvt96bv7fq04yqm2w2632,7168,"Newcastle United vs Southampton",aki4rp2wba5l3t05fzymgot0p,"B. Brereton",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9z1rpj69c2wne0uyyyetrb0gk,12309863,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Southampton",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9zj02htxa546gmunv1yxsgd1w,12309924,1pse9ta7a45pi2w2grjim70ge,2935,"Nottingham Forest vs AFC Bournemouth",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,9zj02htxa546gmunv1yxsgd1w,12309924,1pse9ta7a45pi2w2grjim70ge,2935,"Nottingham Forest vs AFC Bournemouth",a2zavv31d2aadyddk0kjttdgq,"M. Kerkez",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,a00er18cx7l4uarkf0hxuq9sk,12309918,b496gs285it6bheuikox6z9mj,4,"West Ham United vs Aston Villa",4jyrztlaueae7eg18kuvxa489,"L. Bailey",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,a00er18cx7l4uarkf0hxuq9sk,12309918,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Aston Villa",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2024-08-17Z
+2kwbbcootiqqgmrzs6o5inle5,289,a0hrs1z7fyi5khi5ahzp92bys,12309937,1c8m2ko0wxq1asfkuykurdr0y,3482,"Brentford vs Crystal Palace",5nsag404623qznyyizl8yuwkq,"C. Richards",1,2024-08-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,a0hrs1z7fyi5khi5ahzp92bys,12309937,1c8m2ko0wxq1asfkuykurdr0y,3482,"Brentford vs Crystal Palace",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2024-08-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,a0hrs1z7fyi5khi5ahzp92bys,12309937,1c8m2ko0wxq1asfkuykurdr0y,3482,"Brentford vs Crystal Palace",9c927a1i8iqblent14xat7aad,"J. Ayew",1,2024-08-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,a0hrs1z7fyi5khi5ahzp92bys,12309937,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Crystal Palace",bxjc2heo4ve54cyvw98qcck45,"Y. Wissa",1,2024-08-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,a10nf6w203q0qaq2pjqdjzac4,12309932,a3nyxabgsqlnqfkeg41m6tnpp,12,"Chelsea vs Manchester City",atzboo800gv7gic2rgvgo0kq1,"E. Haaland",1,2024-08-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,a1hv3g0e4xxhsmf3uy6h7nbpw,12309967,22doj4sgsocqpxw45h607udje,19,"Leicester City vs Tottenham Hotspur",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2024-08-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,a1vzqjrh90mlztt4kxuryi7tg,12565926,7vn2i2kd35zuetw6b38gw9jsz,15,"AFC Bournemouth vs Newcastle United",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a1vzqjrh90mlztt4kxuryi7tg,12565926,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Newcastle United",95pzsjfh0wf6isp6qpf9lddyh,"M. Senesi",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a1vzqjrh90mlztt4kxuryi7tg,12565926,7vn2i2kd35zuetw6b38gw9jsz,15,"AFC Bournemouth vs Newcastle United",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a29xs4iwc8l76q75hvdhqmfis,12565944,4dsgumo7d4zupm2ugsvm4zm4d,3,"Aston Villa vs Arsenal",6jgocc12bori2wygyu07c082x,"D. Rice",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a29xs4iwc8l76q75hvdhqmfis,12565944,4dsgumo7d4zupm2ugsvm4zm4d,3,"Aston Villa vs Arsenal",8libvn3hxypz8x7gm4mr7kj55,"Gabriel Magalhães",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a29xs4iwc8l76q75hvdhqmfis,12565944,4dsgumo7d4zupm2ugsvm4zm4d,3,"Aston Villa vs Arsenal",b1lcxeihx8z6pfv1jef4j5jh1,"M. Ødegaard",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a29xs4iwc8l76q75hvdhqmfis,12565944,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Arsenal",do3duah478rhz9cg2icde4h9m,"A. Onana",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a2nwp4zx1mzcmk2e4dtcw5h5g,12565951,6eqit8ye8aomdsrrq0hk3v7gh,13,"Brighton & Hove Albion vs Manchester United",cgm6zre07l5qauif32jtfqsk4,"K. Mainoo",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a31ubu7a49ct5wfk743xnb7kk,12565534,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs West Ham United",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a31ubu7a49ct5wfk743xnb7kk,12565534,4txjdaqveermfryvbfrr4taf7,21,"Crystal Palace vs West Ham United",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a3futa5xj74lp0081zpbycopg,12565539,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Leicester City",cgvp2cli2gi4cnyl62kt80r11,"T. Cairney",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a3futa5xj74lp0081zpbycopg,12565539,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Leicester City",dlpk0a4jgiswcm2r75uh1czpx,"H. Wilson",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a3ttpgz90zp87ss25f3saaot0,12565942,7yx5dqhhphyvfisohikodajhv,2969,"Liverpool vs Brentford",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a3ttpgz90zp87ss25f3saaot0,12565942,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Brentford",avh60ensgiwz1qalvn1bbqkfd,"D. Szoboszlai",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a3ttpgz90zp87ss25f3saaot0,12565942,7yx5dqhhphyvfisohikodajhv,2969,"Liverpool vs Brentford",dtol82tjlq48bs0s70sisguz9,"M. Jensen",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a3ttpgz90zp87ss25f3saaot0,12565942,7yx5dqhhphyvfisohikodajhv,2969,"Liverpool vs Brentford",v78uhwxgzojcec8lsdvucusp,"B. Mbeumo",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a47yg860l5uz4oympuu72rlzo,12565936,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Ipswich Town",2t5s4f41jefzuzth0bhcixtcl,"Rúben Dias",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a47yg860l5uz4oympuu72rlzo,12565936,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Ipswich Town",72nph557ee2a9tdky8rvk12vp,"J. Grealish",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a4m4ugilkxcp2ojdtx5gksmqc,12565858,1qtaiy11gswx327s0vkibf70n,6105,"Southampton vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a4m4ugilkxcp2ojdtx5gksmqc,12565858,1qtaiy11gswx327s0vkibf70n,6105,"Southampton vs Nottingham Forest",cjdycctu96jilvbvnl7ndh9sl,"C. Wood",1,2024-08-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,a5e7h2zp0orfxiun81s46u42c,12565918,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Chelsea",9jxhgh1vhc531ho0ez5alfazu,"R. Aït-Nouri",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a5e7h2zp0orfxiun81s46u42c,12565918,9q0arba2kbnywth8bkxlhgmdr,7,"Wolverhampton Wanderers vs Chelsea",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2024-08-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,a5sr0ba7amh9cuylpfu6pev4k,12570016,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Brighton & Hove Albion",6jgocc12bori2wygyu07c082x,"D. Rice",2,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a5sr0ba7amh9cuylpfu6pev4k,12570016,e5p0ehyguld7egzhiedpdnc3w,2972,"Arsenal vs Brighton & Hove Albion",eaqqezw2ed1u0tt3zc128mr1m,"João Pedro",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a68jncle24x88dhzdwbfj6cyc,12570004,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Southampton",d9a62lhx21b0ym73rxd6mw8h5,"E. Pinnock",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a68jncle24x88dhzdwbfj6cyc,12570004,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Southampton",v78uhwxgzojcec8lsdvucusp,"B. Mbeumo",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a6mj09bndgmfbgbaq963r1r10,12569994,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Crystal Palace",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a6mj09bndgmfbgbaq963r1r10,12569994,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Crystal Palace",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a6mj09bndgmfbgbaq963r1r10,12569994,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Crystal Palace",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a70k22ulkzl4n59fucc69olxw,12569990,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs AFC Bournemouth",6og6s61vrg51rfqxk9cipylzp,"M. Keane",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a70k22ulkzl4n59fucc69olxw,12569990,1pse9ta7a45pi2w2grjim70ge,2935,"Everton vs AFC Bournemouth",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7ejv3imguaw00gzqlxxlv28k,12569993,hzqh7z0mdl3v7gwete66syxp,9,"Ipswich Town vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7ejv3imguaw00gzqlxxlv28k,12569993,hzqh7z0mdl3v7gwete66syxp,9,"Ipswich Town vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7ejv3imguaw00gzqlxxlv28k,12569993,hzqh7z0mdl3v7gwete66syxp,9,"Ipswich Town vs Fulham",e83zd56y74k8uecxqyo5xw7v9,"Adama Traoré",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7sjfgnydclryqx2zklp6dl3o,12573378,b496gs285it6bheuikox6z9mj,4,"Leicester City vs Aston Villa",7wovx9b2bkkc2ett3m2b26iqy,"J. Durán",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7sjfgnydclryqx2zklp6dl3o,12573378,b496gs285it6bheuikox6z9mj,4,"Leicester City vs Aston Villa",btvuam6p4391am219taqtcted,"J. McGinn",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7sjfgnydclryqx2zklp6dl3o,12573378,b496gs285it6bheuikox6z9mj,4,"Leicester City vs Aston Villa",do3duah478rhz9cg2icde4h9m,"A. Onana",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a7sjfgnydclryqx2zklp6dl3o,12573378,b496gs285it6bheuikox6z9mj,4,"Leicester City vs Aston Villa",eo4uva2gnx08xdazfaqzyz2dx,"Y. Tielemans",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a86rax2l4n8o39xdn6vyqebys,12570022,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Liverpool",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a86rax2l4n8o39xdn6vyqebys,12570022,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Liverpool",cgm6zre07l5qauif32jtfqsk4,"K. Mainoo",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a86rax2l4n8o39xdn6vyqebys,12570022,c8h9bw1l82s06h77xxrelzhur,11,"Manchester United vs Liverpool",dxze3b3fsfl814bjcs7q6wcet,"V. van Dijk",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8konun677tzyryolm0f7muc4,12570017,22doj4sgsocqpxw45h607udje,19,"Newcastle United vs Tottenham Hotspur",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8konun677tzyryolm0f7muc4,12570017,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Tottenham Hotspur",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8konun677tzyryolm0f7muc4,12570017,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Tottenham Hotspur",9pv566tidfz21e00y4t0mbap5,"S. Longstaff",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8konun677tzyryolm0f7muc4,12570017,22doj4sgsocqpxw45h607udje,19,"Newcastle United vs Tottenham Hotspur",a1yoz8f4985o166nzcyigpj2t,"J. Maddison",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8konun677tzyryolm0f7muc4,12570017,22doj4sgsocqpxw45h607udje,19,"Newcastle United vs Tottenham Hotspur",btf0dch35aww78bzillh2jgx6,"P. Sarr",1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8konun677tzyryolm0f7muc4,12570017,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Tottenham Hotspur",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2024-09-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8z07hm3f32wyzle4ilpkk6j8,12570007,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Wolverhampton Wanderers",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8z07hm3f32wyzle4ilpkk6j8,12570007,b9si1jn1lfxfund69e9ogcu2n,8150,"Nottingham Forest vs Wolverhampton Wanderers",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8z07hm3f32wyzle4ilpkk6j8,12570007,b9si1jn1lfxfund69e9ogcu2n,8150,"Nottingham Forest vs Wolverhampton Wanderers",8rfgwq7hbi4a3imda845vdyvp,"M. Lemina",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a8z07hm3f32wyzle4ilpkk6j8,12570007,b9si1jn1lfxfund69e9ogcu2n,8150,"Nottingham Forest vs Wolverhampton Wanderers",wg9qybhs3qeq9awhux331uqx,"J. Bellegarde",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9cy73yop41lf9p9junv6o5xw,12570006,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Manchester City",2nz313c0ot91untg011l3pc6h,"M. Kilman",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9cy73yop41lf9p9junv6o5xw,12570006,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Manchester City",8qezzr83ofw7htqufohg2fwlx,Emerson,1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9cy73yop41lf9p9junv6o5xw,12570006,a3nyxabgsqlnqfkeg41m6tnpp,12,"West Ham United vs Manchester City",almf0gtdjmsdm5zhyot1hvydx,"M. Akanji",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9cy73yop41lf9p9junv6o5xw,12570006,a3nyxabgsqlnqfkeg41m6tnpp,12,"West Ham United vs Manchester City",c2jqa9vozhqu7x79h5rr2n1ed,"K. De Bruyne",1,2024-08-31Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9qyre4oegnwsa1z1ren9uk2c,12609338,9q0arba2kbnywth8bkxlhgmdr,7,"AFC Bournemouth vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9qyre4oegnwsa1z1ren9uk2c,12609338,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Chelsea",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9qyre4oegnwsa1z1ren9uk2c,12609338,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Chelsea",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9qyre4oegnwsa1z1ren9uk2c,12609338,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Chelsea",95pzsjfh0wf6isp6qpf9lddyh,"M. Senesi",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,a9qyre4oegnwsa1z1ren9uk2c,12609338,9q0arba2kbnywth8bkxlhgmdr,7,"AFC Bournemouth vs Chelsea",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aa4ubv3h32s5i4cj579e5myok,12609319,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Everton",3zl1q2gk6tdmzirsyfgm38no5,"E. Martínez",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aa4ubv3h32s5i4cj579e5myok,12609319,ehd2iemqmschhj2ec0vayztzz,8,"Aston Villa vs Everton",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aaiqb5wvklnuqiccs5tjty4us,12609321,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Ipswich Town",eikpw8bl1se3sj6hnsndi7zmc,"J. Hinshelwood",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aawiuqfio7uaw23yoqt2z5us4,12609302,avxknfz4f6ob0rv9dbnxdzde0,5366,"Crystal Palace vs Leicester City",9c927a1i8iqblent14xat7aad,"J. Ayew",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abci1aeewqlidmi585ea3649g,12609284,4txjdaqveermfryvbfrr4taf7,21,"Fulham vs West Ham United",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abci1aeewqlidmi585ea3649g,12609284,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs West Ham United",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abqhlsvrz9z4a0ggizokn1r10,12609330,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Nottingham Forest",19z8jmren3eytg7fbuzqv73kl,"T. Alexander-Arnold",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abqhlsvrz9z4a0ggizokn1r10,12609330,1qtaiy11gswx327s0vkibf70n,6105,"Liverpool vs Nottingham Forest",3m7wjcmet9b8sc5tu0ct8j0et,"Álex Moreno",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abqhlsvrz9z4a0ggizokn1r10,12609330,1qtaiy11gswx327s0vkibf70n,6105,"Liverpool vs Nottingham Forest",5wengf05apke7rv3kms186j56,"A. Elanga",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abqhlsvrz9z4a0ggizokn1r10,12609330,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Nottingham Forest",avh60ensgiwz1qalvn1bbqkfd,"D. Szoboszlai",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,abqhlsvrz9z4a0ggizokn1r10,12609330,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Nottingham Forest",eziqega9e25bg939pfh4vjp3p,"A. Robertson",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,ac4ee7cck9p3wn2m0hjhn9t04,12609285,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Brentford",3gem1jrrkgye0omb88fk1lsk5,"J. Stones",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,ac4ee7cck9p3wn2m0hjhn9t04,12609285,7yx5dqhhphyvfisohikodajhv,2969,"Manchester City vs Brentford",csinkvzxcphggdjeflmo173zd,"N. Collins",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aciew3qgj7wh9y8uco55gij9w,12609300,6eqit8ye8aomdsrrq0hk3v7gh,13,"Southampton vs Manchester United",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aciew3qgj7wh9y8uco55gij9w,12609300,6eqit8ye8aomdsrrq0hk3v7gh,13,"Southampton vs Manchester United",3vtjjrqof5z2tjj84ehadqc45,"Bruno Fernandes",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aciew3qgj7wh9y8uco55gij9w,12609300,6eqit8ye8aomdsrrq0hk3v7gh,13,"Southampton vs Manchester United",awda32rw2clw0sjemf7rkcel1,"C. Eriksen",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aciew3qgj7wh9y8uco55gij9w,12609300,6eqit8ye8aomdsrrq0hk3v7gh,13,"Southampton vs Manchester United",cgm6zre07l5qauif32jtfqsk4,"K. Mainoo",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,aciew3qgj7wh9y8uco55gij9w,12609300,d5ydtvt96bv7fq04yqm2w2632,7168,"Southampton vs Manchester United",f2pknjv2uohldehbp39j0so2d,"M. Cornet",1,2024-09-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,acwanepsi3azjpg1c0z6d7thw,12609339,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Arsenal",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,acwanepsi3azjpg1c0z6d7thw,12609339,4dsgumo7d4zupm2ugsvm4zm4d,3,"Tottenham Hotspur vs Arsenal",65rqu55qbzswixgqw2efna06i,"W. Saliba",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,acwanepsi3azjpg1c0z6d7thw,12609339,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Arsenal",c33x61zuxixolkkalsigc3q0a,"D. Udogie",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,acwanepsi3azjpg1c0z6d7thw,12609339,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Arsenal",dlf31m2lrfl0biop1demgvh7t,"D. Kulusevski",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,acwanepsi3azjpg1c0z6d7thw,12609339,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Arsenal",dodddfi0l5i36vlgbaybhzeqy,"M. van de Ven",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,ada849bpq0huf2l3fh33gir6c,12609295,7vn2i2kd35zuetw6b38gw9jsz,15,"Wolverhampton Wanderers vs Newcastle United",37d7oej48pb143o5eilue1hhx,"J. Murphy",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,ada849bpq0huf2l3fh33gir6c,12609295,7vn2i2kd35zuetw6b38gw9jsz,15,"Wolverhampton Wanderers vs Newcastle United",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,ada849bpq0huf2l3fh33gir6c,12609295,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Newcastle United",9jxhgh1vhc531ho0ez5alfazu,"R. Aït-Nouri",1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,ada849bpq0huf2l3fh33gir6c,12609295,7vn2i2kd35zuetw6b38gw9jsz,15,"Wolverhampton Wanderers vs Newcastle United",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2024-09-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Wolverhampton Wanderers",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Wolverhampton Wanderers",57s7gfvt5btbfzm600wn7df55,"Pau Torres",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b9si1jn1lfxfund69e9ogcu2n,8150,"Aston Villa vs Wolverhampton Wanderers",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b9si1jn1lfxfund69e9ogcu2n,8150,"Aston Villa vs Wolverhampton Wanderers",8rfgwq7hbi4a3imda845vdyvp,"M. Lemina",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b9si1jn1lfxfund69e9ogcu2n,8150,"Aston Villa vs Wolverhampton Wanderers",9jxhgh1vhc531ho0ez5alfazu,"R. Aït-Nouri",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b9si1jn1lfxfund69e9ogcu2n,8150,"Aston Villa vs Wolverhampton Wanderers",9rm3r46uzxlmuqnp0jo4danhm,"Matheus Cunha",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ado3rhpzujme8omv238shqjh0,12627894,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Wolverhampton Wanderers",dxeju5zcb6j8etdgwq0kweor9,"R. Barkley",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ae1xelew1bynefuy31zeiwdg4,12627901,1qtaiy11gswx327s0vkibf70n,6105,"Brighton & Hove Albion vs Nottingham Forest",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",2,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ae1xelew1bynefuy31zeiwdg4,12627901,1qtaiy11gswx327s0vkibf70n,6105,"Brighton & Hove Albion vs Nottingham Forest",7y6f63pj7horkzhdzbge02rqh,"C. Hudson-Odoi",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ae1xelew1bynefuy31zeiwdg4,12627901,1qtaiy11gswx327s0vkibf70n,6105,"Brighton & Hove Albion vs Nottingham Forest",7zokstl625tj96c64ow4uvjyt,"O. Aina",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ae1xelew1bynefuy31zeiwdg4,12627901,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Nottingham Forest",c0yxqwkxqx1sty7abj1qwh9zp,"D. Welbeck",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ae1xelew1bynefuy31zeiwdg4,12627901,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Nottingham Forest",jagvvzc7329tf2c64mnc251,"L. Dunk",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,aefquyxif5vebjwh54wvk4opg,12627908,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Manchester United",5z8ycnd0smdkumi5fgtzf7c9h,"D. Henderson",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aefquyxif5vebjwh54wvk4opg,12627908,6eqit8ye8aomdsrrq0hk3v7gh,13,"Crystal Palace vs Manchester United",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aefquyxif5vebjwh54wvk4opg,12627908,6eqit8ye8aomdsrrq0hk3v7gh,13,"Crystal Palace vs Manchester United",e5eiuko5p1yms97xndrvcr0bu,"A. Garnacho",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aetne09mtgtggwxaj40va53bo,12627903,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Newcastle United",2f79rc4i712sxstahjkq6pxp1,"B. Leno",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aetne09mtgtggwxaj40va53bo,12627903,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Newcastle United",2qy2d8xkwkbeyw5v8ljlzb845,"K. Tete",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aetne09mtgtggwxaj40va53bo,12627903,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Newcastle United",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aetne09mtgtggwxaj40va53bo,12627903,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Newcastle United",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aetne09mtgtggwxaj40va53bo,12627903,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Newcastle United",e83zd56y74k8uecxqyo5xw7v9,"Adama Traoré",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,af97hxf1kqfomvelc4tryinmc,12627906,ehd2iemqmschhj2ec0vayztzz,8,"Leicester City vs Everton",15948izygnu32cu1pw6h5wp9l,"J. Garner",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,af97hxf1kqfomvelc4tryinmc,12627906,ehd2iemqmschhj2ec0vayztzz,8,"Leicester City vs Everton",6og6s61vrg51rfqxk9cipylzp,"M. Keane",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,af97hxf1kqfomvelc4tryinmc,12627906,avxknfz4f6ob0rv9dbnxdzde0,5366,"Leicester City vs Everton",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,afncz5xufiwf99f23z46ms844,12627902,1pse9ta7a45pi2w2grjim70ge,2935,"Liverpool vs AFC Bournemouth",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ag16tryxy59qyb4yi28yj2vbo,12627904,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Arsenal",2t5s4f41jefzuzth0bhcixtcl,"Rúben Dias",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ag16tryxy59qyb4yi28yj2vbo,12627904,4dsgumo7d4zupm2ugsvm4zm4d,3,"Manchester City vs Arsenal",6jgocc12bori2wygyu07c082x,"D. Rice",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ag16tryxy59qyb4yi28yj2vbo,12627904,4dsgumo7d4zupm2ugsvm4zm4d,3,"Manchester City vs Arsenal",8qwpdf5jof7o6yy47v6iv11hx,"L. Trossard",2,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ag16tryxy59qyb4yi28yj2vbo,12627904,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Arsenal",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ag16tryxy59qyb4yi28yj2vbo,12627904,4dsgumo7d4zupm2ugsvm4zm4d,3,"Manchester City vs Arsenal",d66tmyj9pt69gub8pcjgo3bh1,"Gabriel Jesus",1,2024-09-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,agf7rpybp1uvwirhlyvye11xw,12627905,d5ydtvt96bv7fq04yqm2w2632,7168,"Southampton vs Ipswich Town",9niqvxfgy02wzphokpoh6u66t,"C. Taylor",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,agf7rpybp1uvwirhlyvye11xw,12627905,8b523ujgl21tbc01me65q0aoh,4939,"Southampton vs Ipswich Town",dw5enxkcunwwewbmz8xq5ceeh,"D. O'Shea",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aguvgldpv1ftyxfiy4jznknbo,12627898,7yx5dqhhphyvfisohikodajhv,2969,"Tottenham Hotspur vs Brentford",32bvxwhceid2xdcfx6cd8a8d1,"K. Ajer",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aguvgldpv1ftyxfiy4jznknbo,12627898,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Brentford",a1yoz8f4985o166nzcyigpj2t,"J. Maddison",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,aguvgldpv1ftyxfiy4jznknbo,12627898,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Brentford",dodddfi0l5i36vlgbaybhzeqy,"M. van de Ven",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ah9hnnfftktslca2220tscrh0,12627897,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Chelsea",2nz313c0ot91untg011l3pc6h,"M. Kilman",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ah9hnnfftktslca2220tscrh0,12627897,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Chelsea",3c7vnmec038bhz5rq36ywi2fp,"M. Antonio",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ah9hnnfftktslca2220tscrh0,12627897,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Chelsea",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ah9hnnfftktslca2220tscrh0,12627897,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Chelsea",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",1,2024-09-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,ahrjrk827wesaguut81fwxogk,12697152,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Southampton",a2zavv31d2aadyddk0kjttdgq,"M. Kerkez",1,2024-09-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,ahrjrk827wesaguut81fwxogk,12697152,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Southampton",b3gobhr43y8oxpafvp4f8rgmh,"M. Tavernier",1,2024-09-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,ai61x0upsojo6ai08y1d7bwus,12697150,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Leicester City",65rqu55qbzswixgqw2efna06i,"W. Saliba",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,ai61x0upsojo6ai08y1d7bwus,12697150,avxknfz4f6ob0rv9dbnxdzde0,5366,"Arsenal vs Leicester City",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,aiktebueamcxkgsa70wwdl7h0,12697151,4txjdaqveermfryvbfrr4taf7,21,"Brentford vs West Ham United",2nz313c0ot91untg011l3pc6h,"M. Kilman",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,aiktebueamcxkgsa70wwdl7h0,12697151,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs West Ham United",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,aiktebueamcxkgsa70wwdl7h0,12697151,4txjdaqveermfryvbfrr4taf7,21,"Brentford vs West Ham United",8qezzr83ofw7htqufohg2fwlx,Emerson,1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,aiz0y9183figukgxfgneffcwk,12697144,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Brighton & Hove Albion",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,aiz0y9183figukgxfgneffcwk,12697144,e5p0ehyguld7egzhiedpdnc3w,2972,"Chelsea vs Brighton & Hove Albion",87g6qlasqe627i5g7ir30j2sp,"P. Estupiñán",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,aiz0y9183figukgxfgneffcwk,12697144,e5p0ehyguld7egzhiedpdnc3w,2972,"Chelsea vs Brighton & Hove Albion",jagvvzc7329tf2c64mnc251,"L. Dunk",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,ajdb1l0p6r32vaeoj9ck0tfys,12697142,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Crystal Palace",374kcix9j7e1cob4uxmfncwyd,"D. Calvert-Lewin",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,ajdb1l0p6r32vaeoj9ck0tfys,12697142,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Crystal Palace",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,ajrengt8mistuh1bckmst0b9w,12697145,b496gs285it6bheuikox6z9mj,4,"Ipswich Town vs Aston Villa",e8gz0tmmdh1ql8qrn1ncrvnpx,"L. Digne",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,ak5kc8bae13rk15xz1ie6kl5g,12697143,22doj4sgsocqpxw45h607udje,19,"Manchester United vs Tottenham Hotspur",1l228p52d8wdf8qhfxqu8rca,"B. Johnson",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,ak5kc8bae13rk15xz1ie6kl5g,12697143,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Tottenham Hotspur",3f3jcsa7gk6in9fskp9w5a5t5,"Diogo Dalot",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,ak5kc8bae13rk15xz1ie6kl5g,12697143,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Tottenham Hotspur",3vtjjrqof5z2tjj84ehadqc45,"Bruno Fernandes",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,ak5kc8bae13rk15xz1ie6kl5g,12697143,22doj4sgsocqpxw45h607udje,19,"Manchester United vs Tottenham Hotspur",77yaqzy45dxtzicao00jxrlgq,"Pedro Porro",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,ak5kc8bae13rk15xz1ie6kl5g,12697143,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Tottenham Hotspur",8nh6qf9i1d0qw7nx4wk25qzth,"M. Mount",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,ak5kc8bae13rk15xz1ie6kl5g,12697143,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Tottenham Hotspur",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2024-09-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,akjpi5at8xsnyjax5rlbem9zo,12697137,a3nyxabgsqlnqfkeg41m6tnpp,12,"Newcastle United vs Manchester City",2t5s4f41jefzuzth0bhcixtcl,"Rúben Dias",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akjpi5at8xsnyjax5rlbem9zo,12697137,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Manchester City",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akjpi5at8xsnyjax5rlbem9zo,12697137,a3nyxabgsqlnqfkeg41m6tnpp,12,"Newcastle United vs Manchester City",72nph557ee2a9tdky8rvk12vp,"J. Grealish",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akjpi5at8xsnyjax5rlbem9zo,12697137,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Manchester City",9sxg58hszjq17avxgumftdu22,"S. Tonali",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akjpi5at8xsnyjax5rlbem9zo,12697137,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Manchester City",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akjpi5at8xsnyjax5rlbem9zo,12697137,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Manchester City",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akxtzxg3duz9jhjsbsvbch72s,12697139,hzqh7z0mdl3v7gwete66syxp,9,"Nottingham Forest vs Fulham",2f79rc4i712sxstahjkq6pxp1,"B. Leno",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akxtzxg3duz9jhjsbsvbch72s,12697139,hzqh7z0mdl3v7gwete66syxp,9,"Nottingham Forest vs Fulham",2qy2d8xkwkbeyw5v8ljlzb845,"K. Tete",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akxtzxg3duz9jhjsbsvbch72s,12697139,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Fulham",4txq9os03xwnktfi0n2qdmok,Murillo,1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,akxtzxg3duz9jhjsbsvbch72s,12697139,hzqh7z0mdl3v7gwete66syxp,9,"Nottingham Forest vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,alc3z8rndhparp75jdh7kvgno,12697140,c8h9bw1l82s06h77xxrelzhur,11,"Wolverhampton Wanderers vs Liverpool",19z8jmren3eytg7fbuzqv73kl,"T. Alexander-Arnold",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,alc3z8rndhparp75jdh7kvgno,12697140,c8h9bw1l82s06h77xxrelzhur,11,"Wolverhampton Wanderers vs Liverpool",bz2p1aiij462e1emd7sh5psd1,"Diogo Jota",1,2024-09-28Z
+2kwbbcootiqqgmrzs6o5inle5,289,am6awu6lz7ubxc45z7wk691jo,12731620,6eqit8ye8aomdsrrq0hk3v7gh,13,"Aston Villa vs Manchester United",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,am6awu6lz7ubxc45z7wk691jo,12731620,6eqit8ye8aomdsrrq0hk3v7gh,13,"Aston Villa vs Manchester United",604osk9a3lxpfpkavuziqmn6x,"M. Rashford",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,am6awu6lz7ubxc45z7wk691jo,12731620,6eqit8ye8aomdsrrq0hk3v7gh,13,"Aston Villa vs Manchester United",a3ms8havadt1y9x381l325txx,"V. Lindelöf",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,am6awu6lz7ubxc45z7wk691jo,12731620,6eqit8ye8aomdsrrq0hk3v7gh,13,"Aston Villa vs Manchester United",awda32rw2clw0sjemf7rkcel1,"C. Eriksen",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,am6awu6lz7ubxc45z7wk691jo,12731620,6eqit8ye8aomdsrrq0hk3v7gh,13,"Aston Villa vs Manchester United",cgm6zre07l5qauif32jtfqsk4,"K. Mainoo",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,am6awu6lz7ubxc45z7wk691jo,12731620,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Manchester United",dxeju5zcb6j8etdgwq0kweor9,"R. Barkley",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,amkeeqlbh2br7rp3vbhl9rvo4,12731553,b9si1jn1lfxfund69e9ogcu2n,8150,"Brentford vs Wolverhampton Wanderers",2unorlgh6lxy19g0pgydg65ed,"C. Dawson",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,amkeeqlbh2br7rp3vbhl9rvo4,12731553,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Wolverhampton Wanderers",32bvxwhceid2xdcfx6cd8a8d1,"K. Ajer",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,amym5q493ma787cwb8qo8nims,12731642,22doj4sgsocqpxw45h607udje,19,"Brighton & Hove Albion vs Tottenham Hotspur",c33x61zuxixolkkalsigc3q0a,"D. Udogie",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,amym5q493ma787cwb8qo8nims,12731642,22doj4sgsocqpxw45h607udje,19,"Brighton & Hove Albion vs Tottenham Hotspur",dlf31m2lrfl0biop1demgvh7t,"D. Kulusevski",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,ancv8e780zk2nrbgqv5u4i87o,12731599,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Nottingham Forest",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,ancv8e780zk2nrbgqv5u4i87o,12731599,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Nottingham Forest",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,ancv8e780zk2nrbgqv5u4i87o,12731599,1qtaiy11gswx327s0vkibf70n,6105,"Chelsea vs Nottingham Forest",7r6vds5j65fohi1k28cnqjqvp,"J. Ward-Prowse",2,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,ancv8e780zk2nrbgqv5u4i87o,12731599,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Nottingham Forest",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2024-10-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,anr5t8h8zogj215ennykr2yhg,12731559,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Liverpool",2im16cd31tgg3yac3c8c18jbp,"E. Nketiah",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,anr5t8h8zogj215ennykr2yhg,12731559,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Liverpool",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,anr5t8h8zogj215ennykr2yhg,12731559,c8h9bw1l82s06h77xxrelzhur,11,"Crystal Palace vs Liverpool",9psfk94nduz6icnuwty5v9all,"C. Gakpo",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,anr5t8h8zogj215ennykr2yhg,12731559,c8h9bw1l82s06h77xxrelzhur,11,"Crystal Palace vs Liverpool",am6ppbdrbz4ml3xsbty53o73d,"A. Mac Allister",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,ao5gsl33bdk611idcvyb38dn8,12731638,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Newcastle United",7qgt7sht6py670pt6t4wjhqay,"D. McNeil",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,ao5gsl33bdk611idcvyb38dn8,12731638,7vn2i2kd35zuetw6b38gw9jsz,15,"Everton vs Newcastle United",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,aojh1627bbta23euw8brup6ac,12731551,1pse9ta7a45pi2w2grjim70ge,2935,"Leicester City vs AFC Bournemouth",95pzsjfh0wf6isp6qpf9lddyh,"M. Senesi",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,aojh1627bbta23euw8brup6ac,12731551,avxknfz4f6ob0rv9dbnxdzde0,5366,"Leicester City vs AFC Bournemouth",9c927a1i8iqblent14xat7aad,"J. Ayew",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,aoxhzju01d0van0lzxs0dopw4,12731568,hzqh7z0mdl3v7gwete66syxp,9,"Manchester City vs Fulham",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,aoxhzju01d0van0lzxs0dopw4,12731568,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Fulham",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2024-10-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,apqqiacus65o3u3un7fqht4pg,12767539,4dsgumo7d4zupm2ugsvm4zm4d,3,"AFC Bournemouth vs Arsenal",65rqu55qbzswixgqw2efna06i,"W. Saliba",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,apqqiacus65o3u3un7fqht4pg,12767539,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Arsenal",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,apqqiacus65o3u3un7fqht4pg,12767539,4dsgumo7d4zupm2ugsvm4zm4d,3,"AFC Bournemouth vs Arsenal",cnmlhoum9aahwqruxgmz2gcfd,"B. White",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aq4x8s61inaxj9gh46apuqcyc,12767494,b496gs285it6bheuikox6z9mj,4,"Fulham vs Aston Villa",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aq4x8s61inaxj9gh46apuqcyc,12767494,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Aston Villa",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aq4x8s61inaxj9gh46apuqcyc,12767494,b496gs285it6bheuikox6z9mj,4,"Fulham vs Aston Villa",4jyrztlaueae7eg18kuvxa489,"L. Bailey",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aq4x8s61inaxj9gh46apuqcyc,12767494,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Aston Villa",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aq4x8s61inaxj9gh46apuqcyc,12767494,b496gs285it6bheuikox6z9mj,4,"Fulham vs Aston Villa",e8gz0tmmdh1ql8qrn1ncrvnpx,"L. Digne",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aqj4mcu780mbosjar6dws4phw,12767523,ehd2iemqmschhj2ec0vayztzz,8,"Ipswich Town vs Everton",6og6s61vrg51rfqxk9cipylzp,"M. Keane",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,aqx9l2smo18pz6t961iqxxp1w,12767530,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Chelsea",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,aqx9l2smo18pz6t961iqxxp1w,12767530,9q0arba2kbnywth8bkxlhgmdr,7,"Liverpool vs Chelsea",661b6x35l9b9uieqbcq7el1hx,"T. Adarabioyo",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,aqx9l2smo18pz6t961iqxxp1w,12767530,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Chelsea",am6ppbdrbz4ml3xsbty53o73d,"A. Mac Allister",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,aqx9l2smo18pz6t961iqxxp1w,12767530,9q0arba2kbnywth8bkxlhgmdr,7,"Liverpool vs Chelsea",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,aqx9l2smo18pz6t961iqxxp1w,12767530,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Chelsea",avh60ensgiwz1qalvn1bbqkfd,"D. Szoboszlai",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,arcxbx27p50ztgucbgs0xlg5w,12767498,7yx5dqhhphyvfisohikodajhv,2969,"Manchester United vs Brentford",32bvxwhceid2xdcfx6cd8a8d1,"K. Ajer",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,arcxbx27p50ztgucbgs0xlg5w,12767498,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Brentford",3f3jcsa7gk6in9fskp9w5a5t5,"Diogo Dalot",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,arcxbx27p50ztgucbgs0xlg5w,12767498,7yx5dqhhphyvfisohikodajhv,2969,"Manchester United vs Brentford",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,arreylb5mxkxkhwbxsmov0qok,12767507,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Brighton & Hove Albion",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,arreylb5mxkxkhwbxsmov0qok,12767507,e5p0ehyguld7egzhiedpdnc3w,2972,"Newcastle United vs Brighton & Hove Albion",eikpw8bl1se3sj6hnsndi7zmc,"J. Hinshelwood",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,as5j1fz90lr0u99at43h9fi1g,12767561,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Crystal Palace",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2024-10-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,as5j1fz90lr0u99at43h9fi1g,12767561,1c8m2ko0wxq1asfkuykurdr0y,3482,"Nottingham Forest vs Crystal Palace",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2024-10-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,askrolvfva9kaqahp64fnutxw,12767536,avxknfz4f6ob0rv9dbnxdzde0,5366,"Southampton vs Leicester City",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,asz9cpjkqq5bqnjodrnawfj10,12767492,4txjdaqveermfryvbfrr4taf7,21,"Tottenham Hotspur vs West Ham United",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,asz9cpjkqq5bqnjodrnawfj10,12767492,4txjdaqveermfryvbfrr4taf7,21,"Tottenham Hotspur vs West Ham United",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,asz9cpjkqq5bqnjodrnawfj10,12767492,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs West Ham United",dodddfi0l5i36vlgbaybhzeqy,"M. van de Ven",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,asz9cpjkqq5bqnjodrnawfj10,12767492,4txjdaqveermfryvbfrr4taf7,21,"Tottenham Hotspur vs West Ham United",p7vw4thx5wzo49h6hfabcq5m,"M. Kudus",1,2024-10-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,atde3o76qjevrgmymfnngt79w,12767537,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Manchester City",4pyehox7p3z64c4l3k8yoyfv9,"Pablo Sarabia",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,atde3o76qjevrgmymfnngt79w,12767537,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Manchester City",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2024-10-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,atrn47w93sszyv6t12spd4oic,12804248,c8h9bw1l82s06h77xxrelzhur,11,"Arsenal vs Liverpool",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,atrn47w93sszyv6t12spd4oic,12804248,c8h9bw1l82s06h77xxrelzhur,11,"Arsenal vs Liverpool",am6ppbdrbz4ml3xsbty53o73d,"A. Mac Allister",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,atrn47w93sszyv6t12spd4oic,12804248,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Liverpool",d66tmyj9pt69gub8pcjgo3bh1,"Gabriel Jesus",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,1pse9ta7a45pi2w2grjim70ge,2935,"Aston Villa vs AFC Bournemouth",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,1pse9ta7a45pi2w2grjim70ge,2935,"Aston Villa vs AFC Bournemouth",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,1pse9ta7a45pi2w2grjim70ge,2935,"Aston Villa vs AFC Bournemouth",b3gobhr43y8oxpafvp4f8rgmh,"M. Tavernier",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,1pse9ta7a45pi2w2grjim70ge,2935,"Aston Villa vs AFC Bournemouth",b64p21hmhsqgrn6n04mk00zpx,"E. Ünal",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",bhsh1n3qfg8awmctxlh8k7yzt,"J. Ramsey",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",btvuam6p4391am219taqtcted,"J. McGinn",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",do3duah478rhz9cg2icde4h9m,"A. Onana",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",dxeju5zcb6j8etdgwq0kweor9,"R. Barkley",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",e8gz0tmmdh1ql8qrn1ncrvnpx,"L. Digne",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,au5vh0mczjvvzeypybd04t2j8,12804254,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs AFC Bournemouth",eo4uva2gnx08xdazfaqzyz2dx,"Y. Tielemans",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,auynk1784hnafhswgknipe5uc,12804230,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Wolverhampton Wanderers",87g6qlasqe627i5g7ir30j2sp,"P. Estupiñán",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,auynk1784hnafhswgknipe5uc,12804230,b9si1jn1lfxfund69e9ogcu2n,8150,"Brighton & Hove Albion vs Wolverhampton Wanderers",9jxhgh1vhc531ho0ez5alfazu,"R. Aït-Nouri",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,avd5izjtdvnw7u93xb8xbvk0k,12804247,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Newcastle United",1j0a3ml1zglc9s31yentfckb9,"C. Nkunku",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avd5izjtdvnw7u93xb8xbvk0k,12804247,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Newcastle United",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avd5izjtdvnw7u93xb8xbvk0k,12804247,7vn2i2kd35zuetw6b38gw9jsz,15,"Chelsea vs Newcastle United",9pv566tidfz21e00y4t0mbap5,"S. Longstaff",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avd5izjtdvnw7u93xb8xbvk0k,12804247,7vn2i2kd35zuetw6b38gw9jsz,15,"Chelsea vs Newcastle United",9sxg58hszjq17avxgumftdu22,"S. Tonali",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avd5izjtdvnw7u93xb8xbvk0k,12804247,7vn2i2kd35zuetw6b38gw9jsz,15,"Chelsea vs Newcastle United",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avd5izjtdvnw7u93xb8xbvk0k,12804247,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Newcastle United",e3il1t1s5lrn4g8t85fcm40oa,"N. Madueke",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avrblfxntqy73qcsyycfvhfys,12804253,22doj4sgsocqpxw45h607udje,19,"Crystal Palace vs Tottenham Hotspur",1l228p52d8wdf8qhfxqu8rca,"B. Johnson",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avrblfxntqy73qcsyycfvhfys,12804253,22doj4sgsocqpxw45h607udje,19,"Crystal Palace vs Tottenham Hotspur",c5zmr0m17riujelm4up44etih,Richarlison,1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avrblfxntqy73qcsyycfvhfys,12804253,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Tottenham Hotspur",djgqihf08sxqh0zt2xe2xzv1l,"J. Mateta",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avrblfxntqy73qcsyycfvhfys,12804253,22doj4sgsocqpxw45h607udje,19,"Crystal Palace vs Tottenham Hotspur",dlf31m2lrfl0biop1demgvh7t,"D. Kulusevski",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,avrblfxntqy73qcsyycfvhfys,12804253,22doj4sgsocqpxw45h607udje,19,"Crystal Palace vs Tottenham Hotspur",dodddfi0l5i36vlgbaybhzeqy,"M. van de Ven",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,aw5h4s7bnrhkee5na9pxp4cno,12804231,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Fulham",35jaxclh329duzefna708jk5x,"J. Tarkowski",1,2024-10-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,awnvptwyuhiyk486uho4ekl5g,12804236,1qtaiy11gswx327s0vkibf70n,6105,"Leicester City vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2024-10-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,awnvptwyuhiyk486uho4ekl5g,12804236,1qtaiy11gswx327s0vkibf70n,6105,"Leicester City vs Nottingham Forest",3m7wjcmet9b8sc5tu0ct8j0et,"Álex Moreno",1,2024-10-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,awnvptwyuhiyk486uho4ekl5g,12804236,avxknfz4f6ob0rv9dbnxdzde0,5366,"Leicester City vs Nottingham Forest",9c927a1i8iqblent14xat7aad,"J. Ayew",1,2024-10-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,axig72q0qgka6v67c4lgfdqfo,12804251,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Manchester United",5l8wtw156meo2vrtrgasif6jt,"K. Mavropanos",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,axig72q0qgka6v67c4lgfdqfo,12804251,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Manchester United",8qezzr83ofw7htqufohg2fwlx,Emerson,1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,axig72q0qgka6v67c4lgfdqfo,12804251,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Manchester United",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2024-10-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,ayb4hc8bbqs5uiuu07fyuzqc4,12866486,7yx5dqhhphyvfisohikodajhv,2969,"Fulham vs Brentford",68n1ydedtlw2s6toghw9qiprd,"M. Roerslev",1,2024-11-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,ayb4hc8bbqs5uiuu07fyuzqc4,12866486,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Brentford",9wqqm1lr6y75yl27asdcygf3e,"Rodrigo Muniz",1,2024-11-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,ayb4hc8bbqs5uiuu07fyuzqc4,12866486,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Brentford",dlpk0a4jgiswcm2r75uh1czpx,"H. Wilson",1,2024-11-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,ayped2904w2njb44zon5ublzo,12866470,avxknfz4f6ob0rv9dbnxdzde0,5366,"Ipswich Town vs Leicester City",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,az3ppcusru6chrdlounu5n504,12866473,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Brighton & Hove Albion",am6ppbdrbz4ml3xsbty53o73d,"A. Mac Allister",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,azi1fqupwi9lt4cntzbmmpus4,12866493,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Chelsea",3f3jcsa7gk6in9fskp9w5a5t5,"Diogo Dalot",1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,azi1fqupwi9lt4cntzbmmpus4,12866493,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Chelsea",604osk9a3lxpfpkavuziqmn6x,"M. Rashford",1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,azi1fqupwi9lt4cntzbmmpus4,12866493,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Chelsea",6nb8hub5usi3iasywa2fjf1lh,Casemiro,1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,azi1fqupwi9lt4cntzbmmpus4,12866493,9q0arba2kbnywth8bkxlhgmdr,7,"Manchester United vs Chelsea",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,azi1fqupwi9lt4cntzbmmpus4,12866493,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Chelsea",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,azwbyivnkpbe5i6dc5ho2azv8,12866487,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Arsenal",5tbabvk43ljv3z3wd9mh0y8r9,"J. Willock",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,azwbyivnkpbe5i6dc5ho2azv8,12866487,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Arsenal",9sxg58hszjq17avxgumftdu22,"S. Tonali",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,azwbyivnkpbe5i6dc5ho2azv8,12866487,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Arsenal",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,azwbyivnkpbe5i6dc5ho2azv8,12866487,4dsgumo7d4zupm2ugsvm4zm4d,3,"Newcastle United vs Arsenal",ed20ebhqi5c32vbbsze8r6yuh,"K. Havertz",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,b0aon2y94ntz8folwv1uny3o4,12866480,4txjdaqveermfryvbfrr4taf7,21,"Nottingham Forest vs West Ham United",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,b0aon2y94ntz8folwv1uny3o4,12866480,4txjdaqveermfryvbfrr4taf7,21,"Nottingham Forest vs West Ham United",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",2,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,b0oyn2643y3eeru99yxy6gdg4,12866490,ehd2iemqmschhj2ec0vayztzz,8,"Southampton vs Everton",35jaxclh329duzefna708jk5x,"J. Tarkowski",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,b0oyn2643y3eeru99yxy6gdg4,12866490,ehd2iemqmschhj2ec0vayztzz,8,"Southampton vs Everton",6og6s61vrg51rfqxk9cipylzp,"M. Keane",1,2024-11-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,b13db56lvlvzdp2dx5afal2j8,12866488,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Aston Villa",2w7i4jfw5wgh3j2wuworoumeh,"C. Romero",1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,b13db56lvlvzdp2dx5afal2j8,12866488,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Aston Villa",77yaqzy45dxtzicao00jxrlgq,"Pedro Porro",1,2024-11-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,b1vw79zoxwpadhg7l24tqz8yc,12899906,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs AFC Bournemouth",1h3mduwlaf89ebwtqxuegsodm,"K. Schade",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b1vw79zoxwpadhg7l24tqz8yc,12899906,1pse9ta7a45pi2w2grjim70ge,2935,"Brentford vs AFC Bournemouth",2u6hj8z2g0r7b5roxpluy4sbu,"I. Zabarnyi",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b1vw79zoxwpadhg7l24tqz8yc,12899906,1pse9ta7a45pi2w2grjim70ge,2935,"Brentford vs AFC Bournemouth",95pzsjfh0wf6isp6qpf9lddyh,"M. Senesi",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2bq698w6izvfo24dyn5s48wk,12899907,a3nyxabgsqlnqfkeg41m6tnpp,12,"Brighton & Hove Albion vs Manchester City",atzboo800gv7gic2rgvgo0kq1,"E. Haaland",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2bq698w6izvfo24dyn5s48wk,12899907,a3nyxabgsqlnqfkeg41m6tnpp,12,"Brighton & Hove Albion vs Manchester City",d0azo0spzov2hg6ul40l58e3u,"R. Lewis",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2ptkxdamitzqv7dxwsanwis4,12899942,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Arsenal",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2ptkxdamitzqv7dxwsanwis4,12899942,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Arsenal",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2ptkxdamitzqv7dxwsanwis4,12899942,4dsgumo7d4zupm2ugsvm4zm4d,3,"Chelsea vs Arsenal",cnmlhoum9aahwqruxgmz2gcfd,"B. White",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2ptkxdamitzqv7dxwsanwis4,12899942,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Arsenal",e3il1t1s5lrn4g8t85fcm40oa,"N. Madueke",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b2ptkxdamitzqv7dxwsanwis4,12899942,4dsgumo7d4zupm2ugsvm4zm4d,3,"Chelsea vs Arsenal",ed20ebhqi5c32vbbsze8r6yuh,"K. Havertz",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b342dlhx0ct3c5rkxni1dpedw,12899890,hzqh7z0mdl3v7gwete66syxp,9,"Crystal Palace vs Fulham",8kb5h8df97ju107n9ibigo1cl,"A. Iwobi",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b3iaa8kt3w1qxwto0asisn0gk,12899936,b496gs285it6bheuikox6z9mj,4,"Liverpool vs Aston Villa",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b3iaa8kt3w1qxwto0asisn0gk,12899936,b496gs285it6bheuikox6z9mj,4,"Liverpool vs Aston Villa",eo4uva2gnx08xdazfaqzyz2dx,"Y. Tielemans",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b3wtb1xixe69twdqvwstjokr8,12899910,avxknfz4f6ob0rv9dbnxdzde0,5366,"Manchester United vs Leicester City",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b4b4fy928rpd2yexatntawm50,12899939,7vn2i2kd35zuetw6b38gw9jsz,15,"Nottingham Forest vs Newcastle United",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b4pd1n8sp9x6pb3pilu3ahgyc,12899934,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Ipswich Town",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2024-11-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,b53nlij3abxe8wc0ufyw441sk,12899874,ehd2iemqmschhj2ec0vayztzz,8,"West Ham United vs Everton",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b53nlij3abxe8wc0ufyw441sk,12899874,ehd2iemqmschhj2ec0vayztzz,8,"West Ham United vs Everton",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b5hwbbtbsv8ugehtpnc87m49g,12899937,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Southampton",wg9qybhs3qeq9awhux331uqx,"J. Bellegarde",1,2024-11-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,b5w5brvt7sdwv5v1d3dhd07bo,12931213,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Brighton & Hove Albion",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b6aokaej7vu6uh7asjuuwxfro,12931196,1qtaiy11gswx327s0vkibf70n,6105,"Arsenal vs Nottingham Forest",7zokstl625tj96c64ow4uvjyt,"O. Aina",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b6aokaej7vu6uh7asjuuwxfro,12931196,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Nottingham Forest",8tc7dcuwdeqbjgt7vw5p38xgq,"B. Saka",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b6aokaej7vu6uh7asjuuwxfro,12931196,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Nottingham Forest",d66tmyj9pt69gub8pcjgo3bh1,"Gabriel Jesus",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b6p2sdqvy8odw4u64ir2hucyc,12931215,1c8m2ko0wxq1asfkuykurdr0y,3482,"Aston Villa vs Crystal Palace",6dqnwhx0eglxhelidxg0dphm2,"T. Mitchell",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b73kaf520do11jf2zrr00ljis,12931191,7yx5dqhhphyvfisohikodajhv,2969,"Everton vs Brentford",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b7joxa472n4y2rdu0u7hluj9w,12931197,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Wolverhampton Wanderers",2qy2d8xkwkbeyw5v8ljlzb845,"K. Tete",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b7joxa472n4y2rdu0u7hluj9w,12931197,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Wolverhampton Wanderers",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b7joxa472n4y2rdu0u7hluj9w,12931197,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Wolverhampton Wanderers",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b8qu9ct9mb9q9ig5rk00utd78,12931200,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Tottenham Hotspur",almf0gtdjmsdm5zhyot1hvydx,"M. Akanji",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b8qu9ct9mb9q9ig5rk00utd78,12931200,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Tottenham Hotspur",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b8qu9ct9mb9q9ig5rk00utd78,12931200,22doj4sgsocqpxw45h607udje,19,"Manchester City vs Tottenham Hotspur",btf0dch35aww78bzillh2jgx6,"P. Sarr",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b8qu9ct9mb9q9ig5rk00utd78,12931200,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Tottenham Hotspur",c2jqa9vozhqu7x79h5rr2n1ed,"K. De Bruyne",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b8qu9ct9mb9q9ig5rk00utd78,12931200,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Tottenham Hotspur",d0azo0spzov2hg6ul40l58e3u,"R. Lewis",1,2024-11-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,b9jqvdwj3ykf2ca6bhvx45iqc,12931181,c8h9bw1l82s06h77xxrelzhur,11,"Southampton vs Liverpool",5ilkkfbsss0bxd6ttdlqg0uz9,"Mohamed Salah",1,2024-11-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,b9jqvdwj3ykf2ca6bhvx45iqc,12931181,c8h9bw1l82s06h77xxrelzhur,11,"Southampton vs Liverpool",5tbz2hexz7vind39ot6govqzu,"C. Bradley",1,2024-11-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,b9jqvdwj3ykf2ca6bhvx45iqc,12931181,c8h9bw1l82s06h77xxrelzhur,11,"Southampton vs Liverpool",9psfk94nduz6icnuwty5v9all,"C. Gakpo",1,2024-11-24Z
+2kwbbcootiqqgmrzs6o5inle5,289,b9y623ypckv88el8q6r4lw1sk,12963193,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Leicester City",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,basek4892ykrxflbww4zim61g,12963262,b496gs285it6bheuikox6z9mj,4,"Chelsea vs Aston Villa",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,basek4892ykrxflbww4zim61g,12963262,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Aston Villa",e3il1t1s5lrn4g8t85fcm40oa,"N. Madueke",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bb6mxypy6ue4iszpiy7npy8t0,12963201,7vn2i2kd35zuetw6b38gw9jsz,15,"Crystal Palace vs Newcastle United",5tbabvk43ljv3z3wd9mh0y8r9,"J. Willock",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bb6mxypy6ue4iszpiy7npy8t0,12963201,7vn2i2kd35zuetw6b38gw9jsz,15,"Crystal Palace vs Newcastle United",66r7rq9kcoyow46ovmhzrtec5,"C. Wilson",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bb6mxypy6ue4iszpiy7npy8t0,12963201,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Newcastle United",6dqnwhx0eglxhelidxg0dphm2,"T. Mitchell",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bb6mxypy6ue4iszpiy7npy8t0,12963201,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Newcastle United",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bb6mxypy6ue4iszpiy7npy8t0,12963201,7vn2i2kd35zuetw6b38gw9jsz,15,"Crystal Palace vs Newcastle United",8mjj0wgufggpc1ai2dk21h90p,"A. Gordon",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbl2rklm0myocb75r45tkd2j8,12963248,a3nyxabgsqlnqfkeg41m6tnpp,12,"Liverpool vs Manchester City",693z0rzfh3m0h0wsma9v8c9ux,"P. Foden",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbl2rklm0myocb75r45tkd2j8,12963248,a3nyxabgsqlnqfkeg41m6tnpp,12,"Liverpool vs Manchester City",almf0gtdjmsdm5zhyot1hvydx,"M. Akanji",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbzdk3ell1dra16xq98m5nkt0,12963213,ehd2iemqmschhj2ec0vayztzz,8,"Manchester United vs Everton",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbzdk3ell1dra16xq98m5nkt0,12963213,ehd2iemqmschhj2ec0vayztzz,8,"Manchester United vs Everton",9o1vesnpfiucpoq35ihhpstex,"V. Mykolenko",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbzdk3ell1dra16xq98m5nkt0,12963213,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Everton",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbzdk3ell1dra16xq98m5nkt0,12963213,ehd2iemqmschhj2ec0vayztzz,8,"Manchester United vs Everton",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bbzdk3ell1dra16xq98m5nkt0,12963213,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Everton",cgm6zre07l5qauif32jtfqsk4,"K. Mainoo",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bcdu4obuf8b4r02jm5532e39w,12963191,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Ipswich Town",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bcdu4obuf8b4r02jm5532e39w,12963191,8b523ujgl21tbc01me65q0aoh,4939,"Nottingham Forest vs Ipswich Town",dw5enxkcunwwewbmz8xq5ceeh,"D. O'Shea",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bcsdyyjyzsnw41qse2hagqbro,12963209,hzqh7z0mdl3v7gwete66syxp,9,"Tottenham Hotspur vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bcsdyyjyzsnw41qse2hagqbro,12963209,hzqh7z0mdl3v7gwete66syxp,9,"Tottenham Hotspur vs Fulham",cgvp2cli2gi4cnyl62kt80r11,"T. Cairney",1,2024-12-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bd8umdv86yjcz8o1151nqacyc,12963260,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Arsenal",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bd8umdv86yjcz8o1151nqacyc,12963260,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Arsenal",8qezzr83ofw7htqufohg2fwlx,Emerson,1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bd8umdv86yjcz8o1151nqacyc,12963260,4dsgumo7d4zupm2ugsvm4zm4d,3,"West Ham United vs Arsenal",8tc7dcuwdeqbjgt7vw5p38xgq,"B. Saka",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bdnkuhx0lsaw99k32a2dahlp0,12963298,1pse9ta7a45pi2w2grjim70ge,2935,"Wolverhampton Wanderers vs AFC Bournemouth",2u6hj8z2g0r7b5roxpluy4sbu,"I. Zabarnyi",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bdnkuhx0lsaw99k32a2dahlp0,12963298,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs AFC Bournemouth",2unorlgh6lxy19g0pgydg65ed,"C. Dawson",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bdnkuhx0lsaw99k32a2dahlp0,12963298,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs AFC Bournemouth",8rfgwq7hbi4a3imda845vdyvp,"M. Lemina",1,2024-11-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,be20id1i26jlq29i8700i0zkk,13026608,22doj4sgsocqpxw45h607udje,19,"AFC Bournemouth vs Tottenham Hotspur",7qy1hiitksyuaa9l0irxg240l,"B. Davies",1,2024-12-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,begik5lflzeqcbhrbyqswnaqc,13026607,6eqit8ye8aomdsrrq0hk3v7gh,13,"Arsenal vs Manchester United",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,begik5lflzeqcbhrbyqswnaqc,13026607,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Manchester United",3l7amac6wdv9yztupg7ur3kl,"O. Zinchenko",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bev0t7iyd8z5rkiyzs5fg3x1w,13026628,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Brentford",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bev0t7iyd8z5rkiyzs5fg3x1w,13026628,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Brentford",7wovx9b2bkkc2ett3m2b26iqy,"J. Durán",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bev0t7iyd8z5rkiyzs5fg3x1w,13026628,7yx5dqhhphyvfisohikodajhv,2969,"Aston Villa vs Brentford",csinkvzxcphggdjeflmo173zd,"N. Collins",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bev0t7iyd8z5rkiyzs5fg3x1w,13026628,7yx5dqhhphyvfisohikodajhv,2969,"Aston Villa vs Brentford",d9a62lhx21b0ym73rxd6mw8h5,"E. Pinnock",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bf9k8g09nc98gwic8adlpwphw,13026610,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Wolverhampton Wanderers",95uxoznu15m2xywirv43rcmol,"O. Mangala",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bfny9x8al04e3t86o8p5lxfkk,13026616,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Brighton & Hove Albion",6k66e9gxbu8s7zoxb7mrtwcmh,"S. Berge",1,2024-12-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,bfny9x8al04e3t86o8p5lxfkk,13026616,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Brighton & Hove Albion",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2024-12-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,bfny9x8al04e3t86o8p5lxfkk,13026616,e5p0ehyguld7egzhiedpdnc3w,2972,"Fulham vs Brighton & Hove Albion",jagvvzc7329tf2c64mnc251,"L. Dunk",1,2024-12-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,bg25ufr91xkt4ixq46xrl80lw,13026598,1c8m2ko0wxq1asfkuykurdr0y,3482,"Ipswich Town vs Crystal Palace",djgqihf08sxqh0zt2xe2xzv1l,"J. Mateta",1,2024-12-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,bg25ufr91xkt4ixq46xrl80lw,13026598,8b523ujgl21tbc01me65q0aoh,4939,"Ipswich Town vs Crystal Palace",dw5enxkcunwwewbmz8xq5ceeh,"D. O'Shea",1,2024-12-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,bggjpu9y4dcffnwef4lp7baqc,13026597,4txjdaqveermfryvbfrr4taf7,21,"Leicester City vs West Ham United",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",1,2024-12-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,bgus3xawapa4q2wqila0kty50,13026593,1qtaiy11gswx327s0vkibf70n,6105,"Manchester City vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bgus3xawapa4q2wqila0kty50,13026593,1qtaiy11gswx327s0vkibf70n,6105,"Manchester City vs Nottingham Forest",4txq9os03xwnktfi0n2qdmok,Murillo,1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bgus3xawapa4q2wqila0kty50,13026593,1qtaiy11gswx327s0vkibf70n,6105,"Manchester City vs Nottingham Forest",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bgus3xawapa4q2wqila0kty50,13026593,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Nottingham Forest",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bh98e9b6gzkymhp45iqql84k4,13026617,c8h9bw1l82s06h77xxrelzhur,11,"Newcastle United vs Liverpool",19z8jmren3eytg7fbuzqv73kl,"T. Alexander-Arnold",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bh98e9b6gzkymhp45iqql84k4,13026617,c8h9bw1l82s06h77xxrelzhur,11,"Newcastle United vs Liverpool",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bh98e9b6gzkymhp45iqql84k4,13026617,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Liverpool",9sxg58hszjq17avxgumftdu22,"S. Tonali",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bh98e9b6gzkymhp45iqql84k4,13026617,c8h9bw1l82s06h77xxrelzhur,11,"Newcastle United vs Liverpool",am6ppbdrbz4ml3xsbty53o73d,"A. Mac Allister",1,2024-12-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,bi29p65bqxenzxdf7xlp1c178,13058792,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Southampton",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2024-12-07Z
+2kwbbcootiqqgmrzs6o5inle5,289,biikn4l1ucalfhi0s7rg1ah3o,13058814,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Newcastle United",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2024-12-07Z
+2kwbbcootiqqgmrzs6o5inle5,289,bixas5w8wb396k02ox14n687o,13058817,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Manchester City",2im16cd31tgg3yac3c8c18jbp,"E. Nketiah",1,2024-12-07Z
+2kwbbcootiqqgmrzs6o5inle5,289,bixas5w8wb396k02ox14n687o,13058817,a3nyxabgsqlnqfkeg41m6tnpp,12,"Crystal Palace vs Manchester City",d0azo0spzov2hg6ul40l58e3u,"R. Lewis",2,2024-12-07Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjc8qxpwmoki657tezilgsmqc,13303989,c8h9bw1l82s06h77xxrelzhur,11,"Everton vs Liverpool",3kdl679ra6mlobdg09xqf7fft,"C. Jones",2,2025-02-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjc8qxpwmoki657tezilgsmqc,13303989,c8h9bw1l82s06h77xxrelzhur,11,"Everton vs Liverpool",5tbz2hexz7vind39ot6govqzu,"C. Bradley",1,2025-02-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjc8qxpwmoki657tezilgsmqc,13303989,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Liverpool",8g7clz1z04oqjxhg8xnqc7105,"A. Doucouré",2,2025-02-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjc8qxpwmoki657tezilgsmqc,13303989,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Liverpool",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2025-02-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjc8qxpwmoki657tezilgsmqc,13303989,c8h9bw1l82s06h77xxrelzhur,11,"Everton vs Liverpool",eziqega9e25bg939pfh4vjp3p,"A. Robertson",1,2025-02-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjqu6eqvbthmulqy66bzrmqdw,13058823,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Arsenal",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjqu6eqvbthmulqy66bzrmqdw,13058823,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Arsenal",5wa8lzp50ccfhxg3j4f65gt79,"R. Jiménez",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjqu6eqvbthmulqy66bzrmqdw,13058823,4dsgumo7d4zupm2ugsvm4zm4d,3,"Fulham vs Arsenal",6jgocc12bori2wygyu07c082x,"D. Rice",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjqu6eqvbthmulqy66bzrmqdw,13058823,4dsgumo7d4zupm2ugsvm4zm4d,3,"Fulham vs Arsenal",7ocm7nugzwos59il1pm4eub8q,"Gabriel Martinelli",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjqu6eqvbthmulqy66bzrmqdw,13058823,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Arsenal",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bjqu6eqvbthmulqy66bzrmqdw,13058823,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Arsenal",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bk633qzuive7o4dzd60lpqtqs,13058811,1pse9ta7a45pi2w2grjim70ge,2935,"Ipswich Town vs AFC Bournemouth",96ou7x51dxymv16l0ocsuhbyt,"D. Brooks",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bledpz7gyd1vvglxttwgomq6s,13058815,9q0arba2kbnywth8bkxlhgmdr,7,"Tottenham Hotspur vs Chelsea",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,bledpz7gyd1vvglxttwgomq6s,13058815,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Chelsea",btf0dch35aww78bzillh2jgx6,"P. Sarr",1,2024-12-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,blte8tiefxvw161meykg1v3tg,13058812,b9si1jn1lfxfund69e9ogcu2n,8150,"West Ham United vs Wolverhampton Wanderers",31wf775s975qy3il33oora8k5,"M. Doherty",1,2024-12-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,blte8tiefxvw161meykg1v3tg,13058812,b9si1jn1lfxfund69e9ogcu2n,8150,"West Ham United vs Wolverhampton Wanderers",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2024-12-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,blte8tiefxvw161meykg1v3tg,13058812,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Wolverhampton Wanderers",8qezzr83ofw7htqufohg2fwlx,Emerson,1,2024-12-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,blte8tiefxvw161meykg1v3tg,13058812,b9si1jn1lfxfund69e9ogcu2n,8150,"West Ham United vs Wolverhampton Wanderers",8rfgwq7hbi4a3imda845vdyvp,"M. Lemina",1,2024-12-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,blte8tiefxvw161meykg1v3tg,13058812,b9si1jn1lfxfund69e9ogcu2n,8150,"West Ham United vs Wolverhampton Wanderers",9rm3r46uzxlmuqnp0jo4danhm,"Matheus Cunha",1,2024-12-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,blte8tiefxvw161meykg1v3tg,13058812,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Wolverhampton Wanderers",d542ijpf3j9hdrtt1mfe6vwlx,"J. Bowen",1,2024-12-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,bm7z3a55zn39k1e8kkuo99n2s,13076328,4txjdaqveermfryvbfrr4taf7,21,"AFC Bournemouth vs West Ham United",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",1,2024-12-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,bmmqkysg73hw2a98w3w1b0nis,13076335,ehd2iemqmschhj2ec0vayztzz,8,"Arsenal vs Everton",6e6ttu4unqctb2addbnp5cyga,"A. Broja",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bmmqkysg73hw2a98w3w1b0nis,13076335,ehd2iemqmschhj2ec0vayztzz,8,"Arsenal vs Everton",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bmmqkysg73hw2a98w3w1b0nis,13076335,ehd2iemqmschhj2ec0vayztzz,8,"Arsenal vs Everton",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bn24xgftigiyjd4aywrf9qfis,13076336,1c8m2ko0wxq1asfkuykurdr0y,3482,"Brighton & Hove Albion vs Crystal Palace",5z8ycnd0smdkumi5fgtzf7c9h,"D. Henderson",1,2024-12-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,bn24xgftigiyjd4aywrf9qfis,13076336,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Crystal Palace",jagvvzc7329tf2c64mnc251,"L. Dunk",1,2024-12-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,bngtuob6ob6c7jkakf9f27uvo,13076323,7yx5dqhhphyvfisohikodajhv,2969,"Chelsea vs Brentford",1h3mduwlaf89ebwtqxuegsodm,"K. Schade",1,2024-12-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Fulham",3kdl679ra6mlobdg09xqf7fft,"C. Jones",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Fulham",5ch0r2awkzjfd4hv6kbw6c9gp,"L. Díaz",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Fulham",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,hzqh7z0mdl3v7gwete66syxp,9,"Liverpool vs Fulham",6k66e9gxbu8s7zoxb7mrtwcmh,"S. Berge",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,hzqh7z0mdl3v7gwete66syxp,9,"Liverpool vs Fulham",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,hzqh7z0mdl3v7gwete66syxp,9,"Liverpool vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bnx68u3rxxhity77sm7i2s5qs,13076327,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Fulham",eziqega9e25bg939pfh4vjp3p,"A. Robertson",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bobrdctpas0rdccp0guk8s650,13076308,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester City vs Manchester United",d364lpc0km51psy3zwc4a6zca,"R. Højlund",1,2024-12-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,boqbfv7gxhdcvfw2rkg7auwic,13076317,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Leicester City",37d7oej48pb143o5eilue1hhx,"J. Murphy",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,boqbfv7gxhdcvfw2rkg7auwic,13076317,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Leicester City",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,boqbfv7gxhdcvfw2rkg7auwic,13076317,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Leicester City",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bp4qg49o0h651s8w6aaxt0dn8,13076315,b496gs285it6bheuikox6z9mj,4,"Nottingham Forest vs Aston Villa",7wovx9b2bkkc2ett3m2b26iqy,"J. Durán",1,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bpj5k3yrfzh6p7hzuz6wjlclw,13089560,22doj4sgsocqpxw45h607udje,19,"Southampton vs Tottenham Hotspur",1l228p52d8wdf8qhfxqu8rca,"B. Johnson",1,2024-12-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,bpj5k3yrfzh6p7hzuz6wjlclw,13089560,22doj4sgsocqpxw45h607udje,19,"Southampton vs Tottenham Hotspur",a1yoz8f4985o166nzcyigpj2t,"J. Maddison",1,2024-12-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,bpxwy4r05f7rgihk0e1gzmej8,13076334,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Ipswich Town",9jxhgh1vhc531ho0ez5alfazu,"R. Aït-Nouri",2,2024-12-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqcfixkutrz2cqakxgc538c2c,13089613,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Manchester City",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqcfixkutrz2cqakxgc538c2c,13089613,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Manchester City",3zl1q2gk6tdmzirsyfgm38no5,"E. Martínez",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqcfixkutrz2cqakxgc538c2c,13089613,a3nyxabgsqlnqfkeg41m6tnpp,12,"Aston Villa vs Manchester City",72nph557ee2a9tdky8rvk12vp,"J. Grealish",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqcfixkutrz2cqakxgc538c2c,13089613,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Manchester City",btvuam6p4391am219taqtcted,"J. McGinn",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqcfixkutrz2cqakxgc538c2c,13089613,a3nyxabgsqlnqfkeg41m6tnpp,12,"Aston Villa vs Manchester City",d0azo0spzov2hg6ul40l58e3u,"R. Lewis",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqqukjxfkt2l1pg3s37o3zklw,13089598,1qtaiy11gswx327s0vkibf70n,6105,"Brentford vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqqukjxfkt2l1pg3s37o3zklw,13089598,1qtaiy11gswx327s0vkibf70n,6105,"Brentford vs Nottingham Forest",4txq9os03xwnktfi0n2qdmok,Murillo,1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqqukjxfkt2l1pg3s37o3zklw,13089598,1qtaiy11gswx327s0vkibf70n,6105,"Brentford vs Nottingham Forest",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqqukjxfkt2l1pg3s37o3zklw,13089598,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Nottingham Forest",66939rcic8zhw13nlcniiq4t1,"B. Mee",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bqqukjxfkt2l1pg3s37o3zklw,13089598,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Nottingham Forest",bxjc2heo4ve54cyvw98qcck45,"Y. Wissa",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,br5dy7fu89celv6lqm2rt7vv8,13089603,4dsgumo7d4zupm2ugsvm4zm4d,3,"Crystal Palace vs Arsenal",8libvn3hxypz8x7gm4mr7kj55,"Gabriel Magalhães",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,brjpvrtt6xp1hgec63hmides4,13089584,9q0arba2kbnywth8bkxlhgmdr,7,"Everton vs Chelsea",3djmsd2atvq16ysmocq7twsfd,"A. Disasi",1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,brjpvrtt6xp1hgec63hmides4,13089584,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Chelsea",6z3a27dxffwacyxof0imvcfvu,Beto,1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,brjpvrtt6xp1hgec63hmides4,13089584,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Chelsea",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,brjpvrtt6xp1hgec63hmides4,13089584,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Chelsea",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,bry42iitu51mkcuujnk2eugpg,13089576,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Southampton",5wa8lzp50ccfhxg3j4f65gt79,"R. Jiménez",1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,btmq794wygveimscov4kyx4b8,13089583,c8h9bw1l82s06h77xxrelzhur,11,"Tottenham Hotspur vs Liverpool",9psfk94nduz6icnuwty5v9all,"C. Gakpo",1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,btmq794wygveimscov4kyx4b8,13089583,c8h9bw1l82s06h77xxrelzhur,11,"Tottenham Hotspur vs Liverpool",avh60ensgiwz1qalvn1bbqkfd,"D. Szoboszlai",1,2024-12-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,bu13u0clkituy9j0ibwv3efpw,13089585,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Brighton & Hove Albion",5l8wtw156meo2vrtrgasif6jt,"K. Mavropanos",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bu13u0clkituy9j0ibwv3efpw,13089585,e5p0ehyguld7egzhiedpdnc3w,2972,"West Ham United vs Brighton & Hove Albion",87g6qlasqe627i5g7ir30j2sp,"P. Estupiñán",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bu13u0clkituy9j0ibwv3efpw,13089585,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Brighton & Hove Albion",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2024-12-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,bufh3lgfusvbqnu46478mn02c,13119660,1c8m2ko0wxq1asfkuykurdr0y,3482,"AFC Bournemouth vs Crystal Palace",4wic6z72nwmhkheme209fcmp5,"E. Eze",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bufh3lgfusvbqnu46478mn02c,13119660,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Crystal Palace",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,buu0f5ncky9xnsv4wu3xqlwk4,13119686,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Ipswich Town",ed20ebhqi5c32vbbsze8r6yuh,"K. Havertz",1,2024-12-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,bv89sc8xvhb8y384vzw739ces,13119698,7yx5dqhhphyvfisohikodajhv,2969,"Brighton & Hove Albion vs Brentford",66939rcic8zhw13nlcniiq4t1,"B. Mee",1,2024-12-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,bvmmeuphptsaj0chjl0pc2r6c,13119662,hzqh7z0mdl3v7gwete66syxp,9,"Chelsea vs Fulham",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bvmmeuphptsaj0chjl0pc2r6c,13119662,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Fulham",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bvmmeuphptsaj0chjl0pc2r6c,13119662,hzqh7z0mdl3v7gwete66syxp,9,"Chelsea vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bvmmeuphptsaj0chjl0pc2r6c,13119662,hzqh7z0mdl3v7gwete66syxp,9,"Chelsea vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bw0uir5z0tq8xr7j69z0vuoes,13119695,avxknfz4f6ob0rv9dbnxdzde0,5366,"Liverpool vs Leicester City",9c927a1i8iqblent14xat7aad,"J. Ayew",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bw0uir5z0tq8xr7j69z0vuoes,13119695,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Leicester City",avh60ensgiwz1qalvn1bbqkfd,"D. Szoboszlai",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bw0uir5z0tq8xr7j69z0vuoes,13119695,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Leicester City",eziqega9e25bg939pfh4vjp3p,"A. Robertson",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwfjax16ws009utkif02fsiz8,13119696,ehd2iemqmschhj2ec0vayztzz,8,"Manchester City vs Everton",1ph4g125dfsijfjzjpcvpcmlm,"J. Branthwaite",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwfjax16ws009utkif02fsiz8,13119696,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Everton",693z0rzfh3m0h0wsma9v8c9ux,"P. Foden",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwfjax16ws009utkif02fsiz8,13119696,ehd2iemqmschhj2ec0vayztzz,8,"Manchester City vs Everton",95uxoznu15m2xywirv43rcmol,"O. Mangala",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwfjax16ws009utkif02fsiz8,13119696,ehd2iemqmschhj2ec0vayztzz,8,"Manchester City vs Everton",9nq9bocnqq6bu8ho4m26qmkt1,"S. Coleman",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwfjax16ws009utkif02fsiz8,13119696,ehd2iemqmschhj2ec0vayztzz,8,"Manchester City vs Everton",9o1vesnpfiucpoq35ihhpstex,"V. Mykolenko",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwuarpgll3clnk3scu7xbaxas,13119688,b496gs285it6bheuikox6z9mj,4,"Newcastle United vs Aston Villa",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwuarpgll3clnk3scu7xbaxas,13119688,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Aston Villa",65z99j774kjnbf7vm0u2q0jit,"K. Trippier",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwuarpgll3clnk3scu7xbaxas,13119688,b496gs285it6bheuikox6z9mj,4,"Newcastle United vs Aston Villa",7wovx9b2bkkc2ett3m2b26iqy,"J. Durán",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bwuarpgll3clnk3scu7xbaxas,13119688,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Aston Villa",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bx9avxt4rbqdfvttecl4817v8,13119680,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Tottenham Hotspur",4txq9os03xwnktfi0n2qdmok,Murillo,1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bx9avxt4rbqdfvttecl4817v8,13119680,22doj4sgsocqpxw45h607udje,19,"Nottingham Forest vs Tottenham Hotspur",a1yoz8f4985o166nzcyigpj2t,"J. Maddison",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bxnl2pjrc523jr3yij03t2m8k,13119652,4txjdaqveermfryvbfrr4taf7,21,"Southampton vs West Ham United",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,by1y9hinyt9l3dc9cggsyg36c,13119674,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Manchester United",31wf775s975qy3il33oora8k5,"M. Doherty",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,by1y9hinyt9l3dc9cggsyg36c,13119674,6eqit8ye8aomdsrrq0hk3v7gh,13,"Wolverhampton Wanderers vs Manchester United",3vtjjrqof5z2tjj84ehadqc45,"Bruno Fernandes",2,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,by1y9hinyt9l3dc9cggsyg36c,13119674,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Manchester United",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2024-12-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,bygavxuejjpji124doxwepus4,13149202,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Brighton & Hove Albion",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2024-12-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,bywfg7shyq9ey9h4qn1o86ec4,13149200,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Arsenal",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2025-01-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,bzaq3qasgx4jowyjr368td1jo,13149169,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Southampton",2im16cd31tgg3yac3c8c18jbp,"E. Nketiah",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,bzp7xrrl3h8jk7jkuhuvwm044,13149180,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Nottingham Forest",1ph4g125dfsijfjzjpcvpcmlm,"J. Branthwaite",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,bzp7xrrl3h8jk7jkuhuvwm044,13149180,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Nottingham Forest",35jaxclh329duzefna708jk5x,"J. Tarkowski",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,bzp7xrrl3h8jk7jkuhuvwm044,13149180,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Nottingham Forest",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,bzp7xrrl3h8jk7jkuhuvwm044,13149180,1qtaiy11gswx327s0vkibf70n,6105,"Everton vs Nottingham Forest",cfpqqzqrpzv6dq89yw7nfd1p1,"W. Boly",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,bzp7xrrl3h8jk7jkuhuvwm044,13149180,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Nottingham Forest",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,c03lpbt4c3n52zvvyfbg9afis,13149183,1pse9ta7a45pi2w2grjim70ge,2935,"Fulham vs AFC Bournemouth",33cny48k38nlo8pcx3i24ldqt,"P. Billing",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,c03lpbt4c3n52zvvyfbg9afis,13149183,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs AFC Bournemouth",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,c03lpbt4c3n52zvvyfbg9afis,13149183,1pse9ta7a45pi2w2grjim70ge,2935,"Fulham vs AFC Bournemouth",b64p21hmhsqgrn6n04mk00zpx,"E. Ünal",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,c0i4chcg41suds6581fj8k7bo,13149186,9q0arba2kbnywth8bkxlhgmdr,7,"Ipswich Town vs Chelsea",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2024-12-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,c0i4chcg41suds6581fj8k7bo,13149186,9q0arba2kbnywth8bkxlhgmdr,7,"Ipswich Town vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2024-12-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,c0i4chcg41suds6581fj8k7bo,13149186,8b523ujgl21tbc01me65q0aoh,4939,"Ipswich Town vs Chelsea",dw5enxkcunwwewbmz8xq5ceeh,"D. O'Shea",1,2024-12-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,c1ar3n5pz3puuf5wytox2vs44,13149204,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Newcastle United",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2024-12-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,c1ar3n5pz3puuf5wytox2vs44,13149204,7vn2i2kd35zuetw6b38gw9jsz,15,"Manchester United vs Newcastle United",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2024-12-30Z
+2kwbbcootiqqgmrzs6o5inle5,289,c1p2zxgj65tdyroodx23g90d0,13149179,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Wolverhampton Wanderers",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,c1p2zxgj65tdyroodx23g90d0,13149179,b9si1jn1lfxfund69e9ogcu2n,8150,"Tottenham Hotspur vs Wolverhampton Wanderers",wg9qybhs3qeq9awhux331uqx,"J. Bellegarde",1,2024-12-29Z
+2kwbbcootiqqgmrzs6o5inle5,289,c2icg23tccdnrija8d3j3shec,13166259,ehd2iemqmschhj2ec0vayztzz,8,"AFC Bournemouth vs Everton",1ph4g125dfsijfjzjpcvpcmlm,"J. Branthwaite",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c2icg23tccdnrija8d3j3shec,13166259,ehd2iemqmschhj2ec0vayztzz,8,"AFC Bournemouth vs Everton",8g7clz1z04oqjxhg8xnqc7105,"A. Doucouré",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c2icg23tccdnrija8d3j3shec,13166259,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Everton",96ou7x51dxymv16l0ocsuhbyt,"D. Brooks",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c3pswztqphcj94rokx5g374lw,13166263,9q0arba2kbnywth8bkxlhgmdr,7,"Crystal Palace vs Chelsea",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c3pswztqphcj94rokx5g374lw,13166263,9q0arba2kbnywth8bkxlhgmdr,7,"Crystal Palace vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c462lh2vfn8pqhkig6c02h89g,13166260,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Ipswich Town",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2025-01-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,c462lh2vfn8pqhkig6c02h89g,13166260,8b523ujgl21tbc01me65q0aoh,4939,"Fulham vs Ipswich Town",dw5enxkcunwwewbmz8xq5ceeh,"D. O'Shea",1,2025-01-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,c4ke9hxyesq5m0zfx31p3s6c4,13166264,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Manchester United",19z8jmren3eytg7fbuzqv73kl,"T. Alexander-Arnold",1,2025-01-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,c4ke9hxyesq5m0zfx31p3s6c4,13166264,6eqit8ye8aomdsrrq0hk3v7gh,13,"Liverpool vs Manchester United",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2025-01-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,c4ke9hxyesq5m0zfx31p3s6c4,13166264,6eqit8ye8aomdsrrq0hk3v7gh,13,"Liverpool vs Manchester United",3f3jcsa7gk6in9fskp9w5a5t5,"Diogo Dalot",1,2025-01-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,c4ke9hxyesq5m0zfx31p3s6c4,13166264,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Manchester United",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2025-01-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,c5r9lkl17h9fedcqhewc2hbf8,13166244,7vn2i2kd35zuetw6b38gw9jsz,15,"Tottenham Hotspur vs Newcastle United",4jwkz8almo2997hvp09zl0p9l,"S. Botman",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c5r9lkl17h9fedcqhewc2hbf8,13166244,7vn2i2kd35zuetw6b38gw9jsz,15,"Tottenham Hotspur vs Newcastle United",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c5r9lkl17h9fedcqhewc2hbf8,13166244,7vn2i2kd35zuetw6b38gw9jsz,15,"Tottenham Hotspur vs Newcastle United",7x6mnev1ob4u5ffmdsvusb4rt,"A. Isak",1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c5r9lkl17h9fedcqhewc2hbf8,13166244,7vn2i2kd35zuetw6b38gw9jsz,15,"Tottenham Hotspur vs Newcastle United",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2025-01-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,c65kd5w22z083sj10frkt7f9w,13166256,1qtaiy11gswx327s0vkibf70n,6105,"Wolverhampton Wanderers vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2025-01-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,c6k3plvhac9g481xwld3jb0gk,13177411,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Tottenham Hotspur",8libvn3hxypz8x7gm4mr7kj55,"Gabriel Magalhães",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,c6k3plvhac9g481xwld3jb0gk,13177411,22doj4sgsocqpxw45h607udje,19,"Arsenal vs Tottenham Hotspur",btf0dch35aww78bzillh2jgx6,"P. Sarr",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,c6k3plvhac9g481xwld3jb0gk,13177411,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Tottenham Hotspur",ed20ebhqi5c32vbbsze8r6yuh,"K. Havertz",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,c7d8wl9q27bm0pf7kv32iy1hw,13177380,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Aston Villa",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,c7d8wl9q27bm0pf7kv32iy1hw,13177380,b496gs285it6bheuikox6z9mj,4,"Everton vs Aston Villa",do3duah478rhz9cg2icde4h9m,"A. Onana",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,c7d8wl9q27bm0pf7kv32iy1hw,13177380,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Aston Villa",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,c7rjp8cc5tsvay7yspgopbu38,13177394,e5p0ehyguld7egzhiedpdnc3w,2972,"Ipswich Town vs Brighton & Hove Albion",eaqqezw2ed1u0tt3zc128mr1m,"João Pedro",1,2025-01-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,c8kkkjlb5wgywfyn915w1tm38,13177392,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Liverpool",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c8kkkjlb5wgywfyn915w1tm38,13177392,c8h9bw1l82s06h77xxrelzhur,11,"Nottingham Forest vs Liverpool",5ch0r2awkzjfd4hv6kbw6c9gp,"L. Díaz",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c8zjuspuaerjpv3wgeluakavo,13177390,hzqh7z0mdl3v7gwete66syxp,9,"West Ham United vs Fulham",5wa8lzp50ccfhxg3j4f65gt79,"R. Jiménez",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c8zjuspuaerjpv3wgeluakavo,13177390,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Fulham",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c8zjuspuaerjpv3wgeluakavo,13177390,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Fulham",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c8zjuspuaerjpv3wgeluakavo,13177390,hzqh7z0mdl3v7gwete66syxp,9,"West Ham United vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c9e21ubehtwoquzx63yu5j0gk,13177422,1pse9ta7a45pi2w2grjim70ge,2935,"Chelsea vs AFC Bournemouth",96ou7x51dxymv16l0ocsuhbyt,"D. Brooks",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c9e21ubehtwoquzx63yu5j0gk,13177422,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs AFC Bournemouth",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2025-01-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,c9udwhwue5o5mpocyuwe0iot0,13177396,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Southampton",b17tkj4ea4jld8yupekcolall,"Lisandro Martínez",1,2025-01-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,ca8p9dn369h0t5f9ppctz8opg,13177400,b9si1jn1lfxfund69e9ogcu2n,8150,"Newcastle United vs Wolverhampton Wanderers",31wf775s975qy3il33oora8k5,"M. Doherty",1,2025-01-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,can5pcclpon88dg5c0llbgzdg,13201958,b496gs285it6bheuikox6z9mj,4,"Arsenal vs Aston Villa",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,can5pcclpon88dg5c0llbgzdg,13201958,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Aston Villa",8qwpdf5jof7o6yy47v6iv11hx,"L. Trossard",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,can5pcclpon88dg5c0llbgzdg,13201958,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Aston Villa",e9l5r0txzrjbenli05rn3k4wl,"R. Sterling",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cb1vyujhwe4c3japgewgihudw,13202012,c8h9bw1l82s06h77xxrelzhur,11,"Brentford vs Liverpool",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cb1vyujhwe4c3japgewgihudw,13202012,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Liverpool",68n1ydedtlw2s6toghw9qiprd,"M. Roerslev",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cb1vyujhwe4c3japgewgihudw,13202012,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Liverpool",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cb1vyujhwe4c3japgewgihudw,13202012,c8h9bw1l82s06h77xxrelzhur,11,"Brentford vs Liverpool",avh60ensgiwz1qalvn1bbqkfd,"D. Szoboszlai",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cbggpny9iygsfce7xf6wycb9w,13201999,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Wolverhampton Wanderers",661b6x35l9b9uieqbcq7el1hx,"T. Adarabioyo",1,2025-01-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,cbusbegd736ml79utysy6l0yc,13202013,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Tottenham Hotspur",374kcix9j7e1cob4uxmfncwyd,"D. Calvert-Lewin",1,2025-01-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,cbusbegd736ml79utysy6l0yc,13202013,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Tottenham Hotspur",8g7clz1z04oqjxhg8xnqc7105,"A. Doucouré",1,2025-01-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,ccnw6a579w41c3zh08qmfdij8,13202031,hzqh7z0mdl3v7gwete66syxp,9,"Leicester City vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cd2gxi2aptgouhtii1g9uxk44,13202045,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Brighton & Hove Albion",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2025-01-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,cd2gxi2aptgouhtii1g9uxk44,13202045,e5p0ehyguld7egzhiedpdnc3w,2972,"Manchester United vs Brighton & Hove Albion",2wwo7wcxz4gfy0ubkzynvrsnp,"S. March",1,2025-01-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,cdh4eey7r4frj6kjog24vvqc4,13202060,1pse9ta7a45pi2w2grjim70ge,2935,"Newcastle United vs AFC Bournemouth",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cdh4eey7r4frj6kjog24vvqc4,13202060,1pse9ta7a45pi2w2grjim70ge,2935,"Newcastle United vs AFC Bournemouth",a2zavv31d2aadyddk0kjttdgq,"M. Kerkez",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cdh4eey7r4frj6kjog24vvqc4,13202060,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs AFC Bournemouth",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cdh4eey7r4frj6kjog24vvqc4,13202060,1pse9ta7a45pi2w2grjim70ge,2935,"Newcastle United vs AFC Bournemouth",dg4782hj9xdqg46w225kzph5g,"D. Ouattara",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cea25zc0ctpu7ugs51oeflxxw,13201980,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Crystal Palace",5l8wtw156meo2vrtrgasif6jt,"K. Mavropanos",2,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,cea25zc0ctpu7ugs51oeflxxw,13201980,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Crystal Palace",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",1,2025-01-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,ceoracydrstgwdj3jeqfm0aac,13254882,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Nottingham Forest",2u6hj8z2g0r7b5roxpluy4sbu,"I. Zabarnyi",1,2025-01-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cf51smte7w3vb85s7wtnll3is,13254846,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs West Ham United",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cf51smte7w3vb85s7wtnll3is,13254846,4txjdaqveermfryvbfrr4taf7,21,"Aston Villa vs West Ham United",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cf51smte7w3vb85s7wtnll3is,13254846,4txjdaqveermfryvbfrr4taf7,21,"Aston Villa vs West Ham United",bp3apdb2ahzacq45k4mzj5jhl,"E. Álvarez",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cf51smte7w3vb85s7wtnll3is,13254846,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs West Ham United",eo4uva2gnx08xdazfaqzyz2dx,"Y. Tielemans",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cfjmtr9xrz3ydur0k879qbjmc,13254876,ehd2iemqmschhj2ec0vayztzz,8,"Brighton & Hove Albion vs Everton",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2025-01-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cfjmtr9xrz3ydur0k879qbjmc,13254876,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Everton",eaqqezw2ed1u0tt3zc128mr1m,"João Pedro",1,2025-01-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cfy32fjgh4kbey9otbghjfpjo,13254845,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Brentford",5z8ycnd0smdkumi5fgtzf7c9h,"D. Henderson",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cfy32fjgh4kbey9otbghjfpjo,13254845,7yx5dqhhphyvfisohikodajhv,2969,"Crystal Palace vs Brentford",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,ch6opw6zdu0a9z0yopszbd91w,13254831,9q0arba2kbnywth8bkxlhgmdr,7,"Manchester City vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2025-01-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,ch6opw6zdu0a9z0yopszbd91w,13254831,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Chelsea",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2025-01-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,ci0mj3nznl2mswxmit5tdiwic,13254843,avxknfz4f6ob0rv9dbnxdzde0,5366,"Tottenham Hotspur vs Leicester City",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,ci0mj3nznl2mswxmit5tdiwic,13254843,avxknfz4f6ob0rv9dbnxdzde0,5366,"Tottenham Hotspur vs Leicester City",ch8dgambei1xbzmikkglg3c9h,"B. De Cordova-Reid",1,2025-01-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cif7u6dfjijtksln0bq4fvgus,13254844,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Arsenal",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",2,2025-01-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,ciu1vc5uu20bijnozefw3s0t0,13266318,c8h9bw1l82s06h77xxrelzhur,11,"AFC Bournemouth vs Liverpool",am6ppbdrbz4ml3xsbty53o73d,"A. Mac Allister",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,ciu1vc5uu20bijnozefw3s0t0,13266318,c8h9bw1l82s06h77xxrelzhur,11,"AFC Bournemouth vs Liverpool",dxze3b3fsfl814bjcs7q6wcet,"V. van Dijk",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cj8oky9pw3gl3c0vl5iopegwk,13266460,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Manchester City",b1lcxeihx8z6pfv1jef4j5jh1,"M. Ødegaard",1,2025-02-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,cjndxkory3d6gskog716dp79w,13270883,22doj4sgsocqpxw45h607udje,19,"Brentford vs Tottenham Hotspur",12ekwo6gbza410blv4b4r7ydx,"Son Heung-Min",1,2025-02-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,ck2s8ji1wff2yylcvd6wke590,13266287,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs West Ham United",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2025-02-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,ck2s8ji1wff2yylcvd6wke590,13266287,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs West Ham United",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2025-02-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,cldsrjywfcvux2e5qh29bdn9w,13266283,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Crystal Palace",1vz038uyzmq8saskeeo0qhm8l,"H. Maguire",1,2025-02-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,cldsrjywfcvux2e5qh29bdn9w,13266283,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Crystal Palace",3vtjjrqof5z2tjj84ehadqc45,"Bruno Fernandes",1,2025-02-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,hzqh7z0mdl3v7gwete66syxp,9,"Newcastle United vs Fulham",2f79rc4i712sxstahjkq6pxp1,"B. Leno",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,hzqh7z0mdl3v7gwete66syxp,9,"Newcastle United vs Fulham",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Fulham",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Fulham",8mjj0wgufggpc1ai2dk21h90p,"A. Gordon",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Fulham",9sxg58hszjq17avxgumftdu22,"S. Tonali",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,hzqh7z0mdl3v7gwete66syxp,9,"Newcastle United vs Fulham",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,hzqh7z0mdl3v7gwete66syxp,9,"Newcastle United vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,clssyxeir0vax8g4olw8911ck,13266324,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Fulham",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cm8cv8l5847er98zdb76bce8k,13266273,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Brighton & Hove Albion",4txq9os03xwnktfi0n2qdmok,Murillo,1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cm8cv8l5847er98zdb76bce8k,13266273,e5p0ehyguld7egzhiedpdnc3w,2972,"Nottingham Forest vs Brighton & Hove Albion",c0yxqwkxqx1sty7abj1qwh9zp,"D. Welbeck",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cm8cv8l5847er98zdb76bce8k,13266273,e5p0ehyguld7egzhiedpdnc3w,2972,"Nottingham Forest vs Brighton & Hove Albion",eikpw8bl1se3sj6hnsndi7zmc,"J. Hinshelwood",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cmn92b47zkeatbvfzaqlai4no,13266306,b496gs285it6bheuikox6z9mj,4,"Wolverhampton Wanderers vs Aston Villa",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cmn92b47zkeatbvfzaqlai4no,13266306,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Aston Villa",4pyehox7p3z64c4l3k8yoyfv9,"Pablo Sarabia",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cmn92b47zkeatbvfzaqlai4no,13266306,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Aston Villa",9rm3r46uzxlmuqnp0jo4danhm,"Matheus Cunha",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cmn92b47zkeatbvfzaqlai4no,13266306,b496gs285it6bheuikox6z9mj,4,"Wolverhampton Wanderers vs Aston Villa",btvuam6p4391am219taqtcted,"J. McGinn",1,2025-02-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,cnfwdvk7a0irnoxxsgwcqowt0,13303993,9q0arba2kbnywth8bkxlhgmdr,7,"Brighton & Hove Albion vs Chelsea",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2025-02-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,cnugk926bf1ii0q182wdwce1g,13299439,ehd2iemqmschhj2ec0vayztzz,8,"Crystal Palace vs Everton",15948izygnu32cu1pw6h5wp9l,"J. Garner",1,2025-02-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,congh2abedilcvoe6223h7rx0,13303996,avxknfz4f6ob0rv9dbnxdzde0,5366,"Leicester City vs Arsenal",9c927a1i8iqblent14xat7aad,"J. Ayew",1,2025-02-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,cp2astkwfj6ge4p5yd1qiok5w,13299468,b9si1jn1lfxfund69e9ogcu2n,8150,"Liverpool vs Wolverhampton Wanderers",31wf775s975qy3il33oora8k5,"M. Doherty",1,2025-02-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,cp2astkwfj6ge4p5yd1qiok5w,13299468,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Wolverhampton Wanderers",dxze3b3fsfl814bjcs7q6wcet,"V. van Dijk",1,2025-02-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,cph0sbe30s5dds2gb7ihzjnro,13299455,7vn2i2kd35zuetw6b38gw9jsz,15,"Manchester City vs Newcastle United",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2025-02-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,cpvcv1mgqnqdwpu7x3kfy84d0,13299426,1pse9ta7a45pi2w2grjim70ge,2935,"Southampton vs AFC Bournemouth",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2025-02-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,cpvcv1mgqnqdwpu7x3kfy84d0,13299426,1pse9ta7a45pi2w2grjim70ge,2935,"Southampton vs AFC Bournemouth",b3gobhr43y8oxpafvp4f8rgmh,"M. Tavernier",1,2025-02-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,cqbo1hthlgr1ri55r4wz6dgd0,13299445,6eqit8ye8aomdsrrq0hk3v7gh,13,"Tottenham Hotspur vs Manchester United",6nb8hub5usi3iasywa2fjf1lh,Casemiro,1,2025-02-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,cqbo1hthlgr1ri55r4wz6dgd0,13299445,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Manchester United",7qy1hiitksyuaa9l0irxg240l,"B. Davies",1,2025-02-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,cqpu8vihq35dlp6xhs1xtbpck,13299444,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Brentford",6wwagkprtmcadu8p6klcu2uhh,"T. Souček",1,2025-02-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,cr478ah86yeijofn0gr02xgyc,13331884,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Wolverhampton Wanderers",2u6hj8z2g0r7b5roxpluy4sbu,"I. Zabarnyi",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,cr478ah86yeijofn0gr02xgyc,13331884,b9si1jn1lfxfund69e9ogcu2n,8150,"AFC Bournemouth vs Wolverhampton Wanderers",31wf775s975qy3il33oora8k5,"M. Doherty",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,cr478ah86yeijofn0gr02xgyc,13331884,b9si1jn1lfxfund69e9ogcu2n,8150,"AFC Bournemouth vs Wolverhampton Wanderers",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,cr478ah86yeijofn0gr02xgyc,13331884,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Wolverhampton Wanderers",a2zavv31d2aadyddk0kjttdgq,"M. Kerkez",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,cr478ah86yeijofn0gr02xgyc,13331884,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Wolverhampton Wanderers",mfsus6ryni5b1hjn0y70sbo4,"A. Scott",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,crimjcxsi4pvyoqs8ba8anuvo,13331842,4txjdaqveermfryvbfrr4taf7,21,"Arsenal vs West Ham United",7r6vds5j65fohi1k28cnqjqvp,"J. Ward-Prowse",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,crwsvmnv5qlznfhxoy2lcmolw,13336698,9q0arba2kbnywth8bkxlhgmdr,7,"Aston Villa vs Chelsea",1j0a3ml1zglc9s31yentfckb9,"C. Nkunku",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,crwsvmnv5qlznfhxoy2lcmolw,13336698,9q0arba2kbnywth8bkxlhgmdr,7,"Aston Villa vs Chelsea",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,crwsvmnv5qlznfhxoy2lcmolw,13336698,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Chelsea",btvuam6p4391am219taqtcted,"J. McGinn",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,csb274vne8zpiiyvsrgbnu7tg,13334690,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Manchester United",15948izygnu32cu1pw6h5wp9l,"J. Garner",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,csb274vne8zpiiyvsrgbnu7tg,13334690,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Manchester United",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,csb274vne8zpiiyvsrgbnu7tg,13334690,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Manchester United",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,cspm52r4xvet3vz4kywzdug44,13331911,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Crystal Palace",6k66e9gxbu8s7zoxb7mrtwcmh,"S. Berge",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,ct3v47gdfeoinneo90iij4g7o,13333916,22doj4sgsocqpxw45h607udje,19,"Ipswich Town vs Tottenham Hotspur",1l228p52d8wdf8qhfxqu8rca,"B. Johnson",1,2025-02-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,cti5fsnw7o9iejwt55st6iuqc,13331846,avxknfz4f6ob0rv9dbnxdzde0,5366,"Leicester City vs Brentford",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2025-02-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,cti5fsnw7o9iejwt55st6iuqc,13331846,avxknfz4f6ob0rv9dbnxdzde0,5366,"Leicester City vs Brentford",ch8dgambei1xbzmikkglg3c9h,"B. De Cordova-Reid",1,2025-02-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,cuazu03g3y1uytoepfuvwzcic,13332161,1qtaiy11gswx327s0vkibf70n,6105,"Newcastle United vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2025-02-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,cuazu03g3y1uytoepfuvwzcic,13332161,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Nottingham Forest",bdmomasg7lrn5pwihecvgpuga,"T. Livramento",1,2025-02-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,cv3tiv5ru5bb5tcb6nuge4cgk,13398478,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Everton",csinkvzxcphggdjeflmo173zd,"N. Collins",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cvk0erynir4aj77er9ldbjm6s,13398460,1pse9ta7a45pi2w2grjim70ge,2935,"Brighton & Hove Albion vs AFC Bournemouth",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2025-02-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cvya3ffjz705z0y4df7n3s1lg,13398474,b496gs285it6bheuikox6z9mj,4,"Crystal Palace vs Aston Villa",4jyrztlaueae7eg18kuvxa489,"L. Bailey",1,2025-02-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cvya3ffjz705z0y4df7n3s1lg,13398474,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Aston Villa",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2025-02-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cwr3srzqw7pqlcwu54j6he49g,13398473,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Manchester City",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cwr3srzqw7pqlcwu54j6he49g,13398473,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Manchester City",a1yoz8f4985o166nzcyigpj2t,"J. Maddison",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cwr3srzqw7pqlcwu54j6he49g,13398473,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Manchester City",btf0dch35aww78bzillh2jgx6,"P. Sarr",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cxk2lpo4c91wfp2oka60z5gk4,13398470,hzqh7z0mdl3v7gwete66syxp,9,"Wolverhampton Wanderers vs Fulham",6k66e9gxbu8s7zoxb7mrtwcmh,"S. Berge",1,2025-02-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cxk2lpo4c91wfp2oka60z5gk4,13398470,hzqh7z0mdl3v7gwete66syxp,9,"Wolverhampton Wanderers vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2025-02-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cxk2lpo4c91wfp2oka60z5gk4,13398470,hzqh7z0mdl3v7gwete66syxp,9,"Wolverhampton Wanderers vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2025-02-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,cycxow0z81dhrswp0074dhp1w,13398465,7vn2i2kd35zuetw6b38gw9jsz,15,"Liverpool vs Newcastle United",37d7oej48pb143o5eilue1hhx,"J. Murphy",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cyrm38ygfd7f3oa4u3rrgclxw,13398487,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Ipswich Town",d364lpc0km51psy3zwc4a6zca,"R. Højlund",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cyrm38ygfd7f3oa4u3rrgclxw,13398487,8b523ujgl21tbc01me65q0aoh,4939,"Manchester United vs Ipswich Town",dw5enxkcunwwewbmz8xq5ceeh,"D. O'Shea",1,2025-02-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,cz68m95o7oacsc9qpoc8n4tn8,13434775,b496gs285it6bheuikox6z9mj,4,"Brentford vs Aston Villa",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,cz68m95o7oacsc9qpoc8n4tn8,13434775,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Aston Villa",32bvxwhceid2xdcfx6cd8a8d1,"K. Ajer",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,cz68m95o7oacsc9qpoc8n4tn8,13434775,b496gs285it6bheuikox6z9mj,4,"Brentford vs Aston Villa",btvuam6p4391am219taqtcted,"J. McGinn",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,cz68m95o7oacsc9qpoc8n4tn8,13434775,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Aston Villa",csinkvzxcphggdjeflmo173zd,"N. Collins",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,czldal9ynh5u4me7mj9kmnm6s,13436135,hzqh7z0mdl3v7gwete66syxp,9,"Brighton & Hove Albion vs Fulham",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,czldal9ynh5u4me7mj9kmnm6s,13436135,hzqh7z0mdl3v7gwete66syxp,9,"Brighton & Hove Albion vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,d0fn05ld3ohh4zolzok42dmok,13434776,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Ipswich Town",5nsag404623qznyyizl8yuwkq,"C. Richards",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,d0x1goion7o4056jej5yivrbo,13432606,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Southampton",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,d1bx99scogod2lz819u36qmfo,13433253,4dsgumo7d4zupm2ugsvm4zm4d,3,"Manchester United vs Arsenal",8qwpdf5jof7o6yy47v6iv11hx,"L. Trossard",1,2025-03-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,d1qggji02phsefv7fcnu37cic,13432626,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Manchester City",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,d1qggji02phsefv7fcnu37cic,13432626,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Manchester City",7y6f63pj7horkzhdzbge02rqh,"C. Hudson-Odoi",1,2025-03-08Z
+2kwbbcootiqqgmrzs6o5inle5,289,d24tmp2degdumbdd8lapwuk9g,13436812,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs AFC Bournemouth",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2025-03-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,d24tmp2degdumbdd8lapwuk9g,13436812,1pse9ta7a45pi2w2grjim70ge,2935,"Tottenham Hotspur vs AFC Bournemouth",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2025-03-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,d24tmp2degdumbdd8lapwuk9g,13436812,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs AFC Bournemouth",a1yoz8f4985o166nzcyigpj2t,"J. Maddison",1,2025-03-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,d24tmp2degdumbdd8lapwuk9g,13436812,1pse9ta7a45pi2w2grjim70ge,2935,"Tottenham Hotspur vs AFC Bournemouth",b3gobhr43y8oxpafvp4f8rgmh,"M. Tavernier",1,2025-03-09Z
+2kwbbcootiqqgmrzs6o5inle5,289,d2jagiufw40z811bzanaipfro,13432485,7vn2i2kd35zuetw6b38gw9jsz,15,"West Ham United vs Newcastle United",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2025-03-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,d3cfd3kbs46gl1q9126b2j3f8,13471045,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Brentford",7tnuxlg9l4rjhc7j3ko36hduy,"A. Semenyo",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d3cfd3kbs46gl1q9126b2j3f8,13471045,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Brentford",b3gobhr43y8oxpafvp4f8rgmh,"M. Tavernier",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d3rcvipacjx336ecjz8pblwd0,13471036,9q0arba2kbnywth8bkxlhgmdr,7,"Arsenal vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2025-03-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d3rcvipacjx336ecjz8pblwd0,13471036,9q0arba2kbnywth8bkxlhgmdr,7,"Arsenal vs Chelsea",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2025-03-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d3rcvipacjx336ecjz8pblwd0,13471036,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Chelsea",8libvn3hxypz8x7gm4mr7kj55,"Gabriel Magalhães",1,2025-03-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d3rcvipacjx336ecjz8pblwd0,13471036,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Chelsea",b1lcxeihx8z6pfv1jef4j5jh1,"M. Ødegaard",1,2025-03-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d45v20vumi6q174iioonrlus4,13372047,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Liverpool",3djmsd2atvq16ysmocq7twsfd,"A. Disasi",1,2025-02-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,d4kvawq799xwz0xyss3lx65g4,13471050,4txjdaqveermfryvbfrr4taf7,21,"Everton vs West Ham United",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d5drzqqpvkgvi0bc0qquabfo4,13471042,1qtaiy11gswx327s0vkibf70n,6105,"Ipswich Town vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d66d75te4kygw09rc1e9dgg0k,13471047,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Brighton & Hove Albion",85gmjxvy1g5aj1lcizegwuaui,"J. Doku",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d66d75te4kygw09rc1e9dgg0k,13471047,e5p0ehyguld7egzhiedpdnc3w,2972,"Manchester City vs Brighton & Hove Albion",aititrd343hal6ount0dp5zze,"K. Mitoma",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d66d75te4kygw09rc1e9dgg0k,13471047,e5p0ehyguld7egzhiedpdnc3w,2972,"Manchester City vs Brighton & Hove Albion",eaqqezw2ed1u0tt3zc128mr1m,"João Pedro",1,2025-03-15Z
+2kwbbcootiqqgmrzs6o5inle5,289,d6mb8tjc4uuudcy7gz9xcysr8,13635244,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Crystal Palace",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2025-04-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d6mb8tjc4uuudcy7gz9xcysr8,13635244,1c8m2ko0wxq1asfkuykurdr0y,3482,"Newcastle United vs Crystal Palace",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2025-04-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d6mb8tjc4uuudcy7gz9xcysr8,13635244,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Crystal Palace",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2025-04-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,d7t2grnfncndhrff5hw07zac4,13501225,hzqh7z0mdl3v7gwete66syxp,9,"Arsenal vs Fulham",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d7t2grnfncndhrff5hw07zac4,13501225,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Fulham",6jgocc12bori2wygyu07c082x,"D. Rice",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d7t2grnfncndhrff5hw07zac4,13501225,hzqh7z0mdl3v7gwete66syxp,9,"Arsenal vs Fulham",ah7iqgru0htz9lh1bff94cjbp,"Andreas Pereira",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d7t2grnfncndhrff5hw07zac4,13501225,hzqh7z0mdl3v7gwete66syxp,9,"Arsenal vs Fulham",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d87eb46gm3k4fdadkhzn9i6fo,13501222,b496gs285it6bheuikox6z9mj,4,"Brighton & Hove Albion vs Aston Villa",3djmsd2atvq16ysmocq7twsfd,"A. Disasi",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d87eb46gm3k4fdadkhzn9i6fo,13501222,b496gs285it6bheuikox6z9mj,4,"Brighton & Hove Albion vs Aston Villa",3zl1q2gk6tdmzirsyfgm38no5,"E. Martínez",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d87eb46gm3k4fdadkhzn9i6fo,13501222,b496gs285it6bheuikox6z9mj,4,"Brighton & Hove Albion vs Aston Villa",5m0j33eoa5c8pqlr0tdf7undh,"O. Watkins",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d87eb46gm3k4fdadkhzn9i6fo,13501222,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Aston Villa",c0yxqwkxqx1sty7abj1qwh9zp,"D. Welbeck",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d87eb46gm3k4fdadkhzn9i6fo,13501222,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Aston Villa",eikpw8bl1se3sj6hnsndi7zmc,"J. Hinshelwood",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d8lufn32mewba6msczq3kfb4k,13501229,6eqit8ye8aomdsrrq0hk3v7gh,13,"Nottingham Forest vs Manchester United",6nb8hub5usi3iasywa2fjf1lh,Casemiro,1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d8lufn32mewba6msczq3kfb4k,13501229,6eqit8ye8aomdsrrq0hk3v7gh,13,"Nottingham Forest vs Manchester United",awda32rw2clw0sjemf7rkcel1,"C. Eriksen",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d8lufn32mewba6msczq3kfb4k,13501229,6eqit8ye8aomdsrrq0hk3v7gh,13,"Nottingham Forest vs Manchester United",e5eiuko5p1yms97xndrvcr0bu,"A. Garnacho",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d909c2qiiecm9b2hdvp67fr4k,13501232,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs West Ham United",31wf775s975qy3il33oora8k5,"M. Doherty",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d909c2qiiecm9b2hdvp67fr4k,13501232,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs West Ham United",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d909c2qiiecm9b2hdvp67fr4k,13501232,4txjdaqveermfryvbfrr4taf7,21,"Wolverhampton Wanderers vs West Ham United",5l8wtw156meo2vrtrgasif6jt,"K. Mavropanos",1,2025-04-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,22doj4sgsocqpxw45h607udje,19,"Chelsea vs Tottenham Hotspur",1l228p52d8wdf8qhfxqu8rca,"B. Johnson",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,22doj4sgsocqpxw45h607udje,19,"Chelsea vs Tottenham Hotspur",2w7i4jfw5wgh3j2wuworoumeh,"C. Romero",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Tottenham Hotspur",6psklvi66inwws7buzf16yjft,"Pedro Neto",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,22doj4sgsocqpxw45h607udje,19,"Chelsea vs Tottenham Hotspur",77yaqzy45dxtzicao00jxrlgq,"Pedro Porro",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Tottenham Hotspur",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,22doj4sgsocqpxw45h607udje,19,"Chelsea vs Tottenham Hotspur",btf0dch35aww78bzillh2jgx6,"P. Sarr",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9es5inp46bdiek2mkt5ilono,13501234,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Tottenham Hotspur",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2025-04-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9timyrj2vuaokc7y292yqr6c,13501231,ehd2iemqmschhj2ec0vayztzz,8,"Liverpool vs Everton",35jaxclh329duzefna708jk5x,"J. Tarkowski",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9timyrj2vuaokc7y292yqr6c,13501231,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Everton",5e300bc3sbmy6iqpvmic34qju,"D. Núñez",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9timyrj2vuaokc7y292yqr6c,13501231,ehd2iemqmschhj2ec0vayztzz,8,"Liverpool vs Everton",6z3a27dxffwacyxof0imvcfvu,Beto,1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,d9timyrj2vuaokc7y292yqr6c,13501231,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Everton",bz2p1aiij462e1emd7sh5psd1,"Diogo Jota",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,dam9kp85r3jshqchiklw9a978,13501221,7yx5dqhhphyvfisohikodajhv,2969,"Newcastle United vs Brentford",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,dam9kp85r3jshqchiklw9a978,13501221,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Brentford",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2025-04-02Z
+2kwbbcootiqqgmrzs6o5inle5,289,dbfbhyoh7pdfy9artap3x5o2c,13534448,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Nottingham Forest",3zl1q2gk6tdmzirsyfgm38no5,"E. Martínez",1,2025-04-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dbvss9t801ingw4e9ucfjdzx0,13534446,9q0arba2kbnywth8bkxlhgmdr,7,"Brentford vs Chelsea",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,dbvss9t801ingw4e9ucfjdzx0,13534446,9q0arba2kbnywth8bkxlhgmdr,7,"Brentford vs Chelsea",661b6x35l9b9uieqbcq7el1hx,"T. Adarabioyo",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,dca9s2gcvmek33tg8j6he6yhg,13534442,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Brighton & Hove Albion",2im16cd31tgg3yac3c8c18jbp,"E. Nketiah",2,2025-04-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dca9s2gcvmek33tg8j6he6yhg,13534442,e5p0ehyguld7egzhiedpdnc3w,2972,"Crystal Palace vs Brighton & Hove Albion",2wwo7wcxz4gfy0ubkzynvrsnp,"S. March",1,2025-04-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dcopj8n08d4s99zdugegg6fx0,13534452,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Arsenal",35jaxclh329duzefna708jk5x,"J. Tarkowski",1,2025-04-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dd36081pd40wo6xhcetvtslqs,13534450,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Liverpool",2f79rc4i712sxstahjkq6pxp1,"B. Leno",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,dd36081pd40wo6xhcetvtslqs,13534450,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Liverpool",cdrzpuj49ploquvdolgh5c3bp,"S. Lukić",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,deac69jewl1gslhollez6n40k,13534459,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester United vs Manchester City",2t5s4f41jefzuzth0bhcixtcl,"Rúben Dias",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,deac69jewl1gslhollez6n40k,13534459,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Manchester City",3f3jcsa7gk6in9fskp9w5a5t5,"Diogo Dalot",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,deac69jewl1gslhollez6n40k,13534459,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Manchester City",8nh6qf9i1d0qw7nx4wk25qzth,"M. Mount",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,deac69jewl1gslhollez6n40k,13534459,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester United vs Manchester City",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,deopnn0h9vgbfpop8r5jpkt90,13534441,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Southampton",77yaqzy45dxtzicao00jxrlgq,"Pedro Porro",1,2025-04-06Z
+2kwbbcootiqqgmrzs6o5inle5,289,df36x2lekcurbztqrdq7p3s44,13534455,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs AFC Bournemouth",7r6vds5j65fohi1k28cnqjqvp,"J. Ward-Prowse",1,2025-04-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,df36x2lekcurbztqrdq7p3s44,13534455,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs AFC Bournemouth",p7vw4thx5wzo49h6hfabcq5m,"M. Kudus",1,2025-04-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dfhjo3usa3fmon5n36gz1jz84,13621893,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Fulham",95pzsjfh0wf6isp6qpf9lddyh,"M. Senesi",1,2025-04-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,dfhjo3usa3fmon5n36gz1jz84,13621893,hzqh7z0mdl3v7gwete66syxp,9,"AFC Bournemouth vs Fulham",bgc1psqiv7vagmphfl920nbah,"A. Robinson",1,2025-04-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,dfhjo3usa3fmon5n36gz1jz84,13621893,hzqh7z0mdl3v7gwete66syxp,9,"AFC Bournemouth vs Fulham",cgvp2cli2gi4cnyl62kt80r11,"T. Cairney",1,2025-04-14Z
+2kwbbcootiqqgmrzs6o5inle5,289,dfvzwtm2nz3yc4ggh46kt1w5w,13621897,7yx5dqhhphyvfisohikodajhv,2969,"Arsenal vs Brentford",1h3mduwlaf89ebwtqxuegsodm,"K. Schade",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dfvzwtm2nz3yc4ggh46kt1w5w,13621897,7yx5dqhhphyvfisohikodajhv,2969,"Arsenal vs Brentford",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dfvzwtm2nz3yc4ggh46kt1w5w,13621897,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Brentford",b1lcxeihx8z6pfv1jef4j5jh1,"M. Ødegaard",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dgab81dvfzgn4me7oad6afwus,13621876,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Leicester City",87g6qlasqe627i5g7ir30j2sp,"P. Estupiñán",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dgab81dvfzgn4me7oad6afwus,13621876,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Leicester City",jagvvzc7329tf2c64mnc251,"L. Dunk",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dgopni5re2glt63kn65pb8gt0,13622601,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Ipswich Town",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2025-04-13Z
+2kwbbcootiqqgmrzs6o5inle5,289,dgopni5re2glt63kn65pb8gt0,13622601,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Ipswich Town",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2025-04-13Z
+2kwbbcootiqqgmrzs6o5inle5,289,dh5b3steuep4gcg8vrgoqa904,13621907,4txjdaqveermfryvbfrr4taf7,21,"Liverpool vs West Ham United",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2025-04-13Z
+2kwbbcootiqqgmrzs6o5inle5,289,dhjze23fkl8jqxz0jy1ajdudw,13621886,1c8m2ko0wxq1asfkuykurdr0y,3482,"Manchester City vs Crystal Palace",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dhjze23fkl8jqxz0jy1ajdudw,13621886,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Crystal Palace",6zjzpbshmem98ecmuc852di0a,"J. McAtee",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,did9iectb95c3dqkixq33tmhg,13621882,ehd2iemqmschhj2ec0vayztzz,8,"Nottingham Forest vs Everton",1ph4g125dfsijfjzjpcvpcmlm,"J. Branthwaite",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,did9iectb95c3dqkixq33tmhg,13621882,ehd2iemqmschhj2ec0vayztzz,8,"Nottingham Forest vs Everton",8g7clz1z04oqjxhg8xnqc7105,"A. Doucouré",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,did9iectb95c3dqkixq33tmhg,13621882,ehd2iemqmschhj2ec0vayztzz,8,"Nottingham Forest vs Everton",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dis4d05x90f8foqzqzieaszro,13621898,b496gs285it6bheuikox6z9mj,4,"Southampton vs Aston Villa",btvuam6p4391am219taqtcted,"J. McGinn",1,2025-04-12Z
+2kwbbcootiqqgmrzs6o5inle5,289,dj6hkaws89p3ieisuep40zbpw,13621881,22doj4sgsocqpxw45h607udje,19,"Wolverhampton Wanderers vs Tottenham Hotspur",7qy1hiitksyuaa9l0irxg240l,"B. Davies",1,2025-04-13Z
+2kwbbcootiqqgmrzs6o5inle5,289,djl0m3wa0aizsyaushkdf4xlg,13635235,7vn2i2kd35zuetw6b38gw9jsz,15,"Aston Villa vs Newcastle United",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djl0m3wa0aizsyaushkdf4xlg,13635235,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Newcastle United",bhsh1n3qfg8awmctxlh8k7yzt,"J. Ramsey",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djl0m3wa0aizsyaushkdf4xlg,13635235,7vn2i2kd35zuetw6b38gw9jsz,15,"Aston Villa vs Newcastle United",c589fk8pfqvbukvtdqu1yhjv9,Joelinton,1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djl0m3wa0aizsyaushkdf4xlg,13635235,7vn2i2kd35zuetw6b38gw9jsz,15,"Aston Villa vs Newcastle United",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djzj5x3cq4kxalvwn302vmtjo,13635252,e5p0ehyguld7egzhiedpdnc3w,2972,"Brentford vs Brighton & Hove Albion",87g6qlasqe627i5g7ir30j2sp,"P. Estupiñán",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djzj5x3cq4kxalvwn302vmtjo,13635252,e5p0ehyguld7egzhiedpdnc3w,2972,"Brentford vs Brighton & Hove Albion",c0yxqwkxqx1sty7abj1qwh9zp,"D. Welbeck",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djzj5x3cq4kxalvwn302vmtjo,13635252,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Brighton & Hove Albion",csinkvzxcphggdjeflmo173zd,"N. Collins",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djzj5x3cq4kxalvwn302vmtjo,13635252,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Brighton & Hove Albion",dtol82tjlq48bs0s70sisguz9,"M. Jensen",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,djzj5x3cq4kxalvwn302vmtjo,13635252,e5p0ehyguld7egzhiedpdnc3w,2972,"Brentford vs Brighton & Hove Albion",eaqqezw2ed1u0tt3zc128mr1m,"João Pedro",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dke1150q5yoz4hz9zomljqolw,13635251,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs AFC Bournemouth",5nsag404623qznyyizl8yuwkq,"C. Richards",2,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dke1150q5yoz4hz9zomljqolw,13635251,1pse9ta7a45pi2w2grjim70ge,2935,"Crystal Palace vs AFC Bournemouth",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dke1150q5yoz4hz9zomljqolw,13635251,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs AFC Bournemouth",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dke1150q5yoz4hz9zomljqolw,13635251,1pse9ta7a45pi2w2grjim70ge,2935,"Crystal Palace vs AFC Bournemouth",dg4782hj9xdqg46w225kzph5g,"D. Ouattara",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dke1150q5yoz4hz9zomljqolw,13635251,1pse9ta7a45pi2w2grjim70ge,2935,"Crystal Palace vs AFC Bournemouth",mfsus6ryni5b1hjn0y70sbo4,"A. Scott",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dksfzyg1sck83blg6aqsgosgk,13635249,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Manchester City",6og6s61vrg51rfqxk9cipylzp,"M. Keane",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dksfzyg1sck83blg6aqsgosgk,13635249,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Manchester City",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dksfzyg1sck83blg6aqsgosgk,13635249,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Manchester City",e8dina16u5kt5ho4u5igtmimt,"J. Pickford",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dl6trlh4efequvi1jx44q4pw4,13635231,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Chelsea",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dl6trlh4efequvi1jx44q4pw4,13635231,9q0arba2kbnywth8bkxlhgmdr,7,"Fulham vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dm1al5n42khl2j7csf73em9zo,13635243,c8h9bw1l82s06h77xxrelzhur,11,"Leicester City vs Liverpool",19z8jmren3eytg7fbuzqv73kl,"T. Alexander-Arnold",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dm1al5n42khl2j7csf73em9zo,13635243,c8h9bw1l82s06h77xxrelzhur,11,"Leicester City vs Liverpool",5tbz2hexz7vind39ot6govqzu,"C. Bradley",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dmfumnyqotxe4tfv5dt39h1ck,13635253,b9si1jn1lfxfund69e9ogcu2n,8150,"Manchester United vs Wolverhampton Wanderers",4pyehox7p3z64c4l3k8yoyfv9,"Pablo Sarabia",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dmfumnyqotxe4tfv5dt39h1ck,13635253,b9si1jn1lfxfund69e9ogcu2n,8150,"Manchester United vs Wolverhampton Wanderers",9jxhgh1vhc531ho0ez5alfazu,"R. Aït-Nouri",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dmfumnyqotxe4tfv5dt39h1ck,13635253,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Wolverhampton Wanderers",awda32rw2clw0sjemf7rkcel1,"C. Eriksen",1,2025-04-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,dmwcnljveuulrz25pdklgt5p0,13635250,1qtaiy11gswx327s0vkibf70n,6105,"Tottenham Hotspur vs Nottingham Forest",1vklxifs8qpj71s4reu3pkw5x,"H. Toffolo",1,2025-04-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,dmwcnljveuulrz25pdklgt5p0,13635250,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Nottingham Forest",2w7i4jfw5wgh3j2wuworoumeh,"C. Romero",1,2025-04-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,dmwcnljveuulrz25pdklgt5p0,13635250,1qtaiy11gswx327s0vkibf70n,6105,"Tottenham Hotspur vs Nottingham Forest",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2025-04-21Z
+2kwbbcootiqqgmrzs6o5inle5,289,dnatphxv9nt52gjl7jhqgzggk,13635242,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Southampton",2nz313c0ot91untg011l3pc6h,"M. Kilman",1,2025-04-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,dnq6oznyctnf9f67b8rbim2vo,13664450,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Manchester United",5qgc6zjc38a5xjl35gs7h3vu1,"J. Kluivert",1,2025-04-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,do5ertwz5kefkxoyelso7xpg4,13664448,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Crystal Palace",6jgocc12bori2wygyu07c082x,"D. Rice",1,2025-04-23Z
+2kwbbcootiqqgmrzs6o5inle5,289,doktb30pfnh9eez9fav8uwsgk,13664462,4txjdaqveermfryvbfrr4taf7,21,"Brighton & Hove Albion vs West Ham United",5l8wtw156meo2vrtrgasif6jt,"K. Mavropanos",1,2025-04-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,doktb30pfnh9eez9fav8uwsgk,13664462,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs West Ham United",eikpw8bl1se3sj6hnsndi7zmc,"J. Hinshelwood",1,2025-04-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpff9nie1hwt0cjg7ovdon21g,13664458,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Tottenham Hotspur",9psfk94nduz6icnuwty5v9all,"C. Gakpo",1,2025-04-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpff9nie1hwt0cjg7ovdon21g,13664458,22doj4sgsocqpxw45h607udje,19,"Liverpool vs Tottenham Hotspur",c5zmr0m17riujelm4up44etih,Richarlison,1,2025-04-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpff9nie1hwt0cjg7ovdon21g,13664458,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Tottenham Hotspur",dz2rfsmhib89jwilpuub10qcq,"H. Elliott",1,2025-04-27Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpu5hhj5p5c0yy1emku249z4k,13664440,b496gs285it6bheuikox6z9mj,4,"Manchester City vs Aston Villa",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2025-04-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpu5hhj5p5c0yy1emku249z4k,13664440,b496gs285it6bheuikox6z9mj,4,"Manchester City vs Aston Villa",5m0j33eoa5c8pqlr0tdf7undh,"O. Watkins",1,2025-04-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpu5hhj5p5c0yy1emku249z4k,13664440,a3nyxabgsqlnqfkeg41m6tnpp,12,"Manchester City vs Aston Villa",b3974hgsmyff5xtq7qf1onhlh,"Bernardo Silva",1,2025-04-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,dpu5hhj5p5c0yy1emku249z4k,13664440,b496gs285it6bheuikox6z9mj,4,"Manchester City vs Aston Villa",e8gz0tmmdh1ql8qrn1ncrvnpx,"L. Digne",1,2025-04-22Z
+2kwbbcootiqqgmrzs6o5inle5,289,dq8r33tml1l76ot3gt361p3bo,13664437,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Ipswich Town",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2025-04-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,dqndz9pbn7dphc5d6e0v9m4no,13671989,7yx5dqhhphyvfisohikodajhv,2969,"Nottingham Forest vs Brentford",32bvxwhceid2xdcfx6cd8a8d1,"K. Ajer",1,2025-05-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,dqndz9pbn7dphc5d6e0v9m4no,13671989,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Brentford",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2025-05-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,dqndz9pbn7dphc5d6e0v9m4no,13671989,7yx5dqhhphyvfisohikodajhv,2969,"Nottingham Forest vs Brentford",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2025-05-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,dqndz9pbn7dphc5d6e0v9m4no,13671989,7yx5dqhhphyvfisohikodajhv,2969,"Nottingham Forest vs Brentford",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2025-05-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,dqndz9pbn7dphc5d6e0v9m4no,13671989,7yx5dqhhphyvfisohikodajhv,2969,"Nottingham Forest vs Brentford",v78uhwxgzojcec8lsdvucusp,"B. Mbeumo",1,2025-05-01Z
+2kwbbcootiqqgmrzs6o5inle5,289,dr27e7kkc83uprtbhixvuye50,13664460,hzqh7z0mdl3v7gwete66syxp,9,"Southampton vs Fulham",5wa8lzp50ccfhxg3j4f65gt79,"R. Jiménez",1,2025-04-26Z
+2kwbbcootiqqgmrzs6o5inle5,289,drvjj5tiohncms5x6tbe1v8k4,13701723,1pse9ta7a45pi2w2grjim70ge,2935,"Arsenal vs AFC Bournemouth",dg4782hj9xdqg46w225kzph5g,"D. Ouattara",1,2025-05-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,dsbvqs1ygy801yd7h0gwq6wwk,13701728,hzqh7z0mdl3v7gwete66syxp,9,"Aston Villa vs Fulham",2qy2d8xkwkbeyw5v8ljlzb845,"K. Tete",1,2025-05-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,dsbvqs1ygy801yd7h0gwq6wwk,13701728,hzqh7z0mdl3v7gwete66syxp,9,"Aston Villa vs Fulham",4jqgl7x5ewke1u0sy2cbkqfhl,"C. Bassey",1,2025-05-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,dsbvqs1ygy801yd7h0gwq6wwk,13701728,hzqh7z0mdl3v7gwete66syxp,9,"Aston Villa vs Fulham",6k66e9gxbu8s7zoxb7mrtwcmh,"S. Berge",1,2025-05-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,dsbvqs1ygy801yd7h0gwq6wwk,13701728,hzqh7z0mdl3v7gwete66syxp,9,"Aston Villa vs Fulham",e83zd56y74k8uecxqyo5xw7v9,"Adama Traoré",1,2025-05-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,dsqmvi28s9tg0vpdb3aaylxck,13701731,6eqit8ye8aomdsrrq0hk3v7gh,13,"Brentford vs Manchester United",e5eiuko5p1yms97xndrvcr0bu,"A. Garnacho",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dt55benceoh9jx9kcbv8d5bf8,13701719,7vn2i2kd35zuetw6b38gw9jsz,15,"Brighton & Hove Albion vs Newcastle United",5tbabvk43ljv3z3wd9mh0y8r9,"J. Willock",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dt55benceoh9jx9kcbv8d5bf8,13701719,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Newcastle United",c0yxqwkxqx1sty7abj1qwh9zp,"D. Welbeck",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dtjmobwjxb276zm1buqsuta1g,13701678,c8h9bw1l82s06h77xxrelzhur,11,"Chelsea vs Liverpool",dxze3b3fsfl814bjcs7q6wcet,"V. van Dijk",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dty4j83gea09kfzprisk5x3pw,13701672,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Nottingham Forest",2im16cd31tgg3yac3c8c18jbp,"E. Nketiah",1,2025-05-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dty4j83gea09kfzprisk5x3pw,13701672,1qtaiy11gswx327s0vkibf70n,6105,"Crystal Palace vs Nottingham Forest",38de1wbyp2ruksgffna791n8p,"N. Domínguez",1,2025-05-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dty4j83gea09kfzprisk5x3pw,13701672,1qtaiy11gswx327s0vkibf70n,6105,"Crystal Palace vs Nottingham Forest",55yy0p6johtu9nxk90zsfctt5,"M. Gibbs-White",1,2025-05-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,dty4j83gea09kfzprisk5x3pw,13701672,1qtaiy11gswx327s0vkibf70n,6105,"Crystal Palace vs Nottingham Forest",7zokstl625tj96c64ow4uvjyt,"O. Aina",1,2025-05-05Z
+2kwbbcootiqqgmrzs6o5inle5,289,ducrivfr5mdk38zys5ytlx638,13701744,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Ipswich Town",9o1vesnpfiucpoq35ihhpstex,"V. Mykolenko",1,2025-05-03Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvkecouc389spo0cgbao2giz8,13701667,22doj4sgsocqpxw45h607udje,19,"West Ham United vs Tottenham Hotspur",7qy1hiitksyuaa9l0irxg240l,"B. Davies",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvkecouc389spo0cgbao2giz8,13701667,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Tottenham Hotspur",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvkecouc389spo0cgbao2giz8,13701667,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Tottenham Hotspur",p7vw4thx5wzo49h6hfabcq5m,"M. Kudus",1,2025-05-04Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvz0b8pe8gblvllmytg1extlg,13736281,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Aston Villa",2u6hj8z2g0r7b5roxpluy4sbu,"I. Zabarnyi",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvz0b8pe8gblvllmytg1extlg,13736281,b496gs285it6bheuikox6z9mj,4,"AFC Bournemouth vs Aston Villa",3zl1q2gk6tdmzirsyfgm38no5,"E. Martínez",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvz0b8pe8gblvllmytg1extlg,13736281,b496gs285it6bheuikox6z9mj,4,"AFC Bournemouth vs Aston Villa",8qys6qtdwgsycxducl062zld5,"E. Konsa",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvz0b8pe8gblvllmytg1extlg,13736281,b496gs285it6bheuikox6z9mj,4,"AFC Bournemouth vs Aston Villa",bhsh1n3qfg8awmctxlh8k7yzt,"J. Ramsey",2,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dvz0b8pe8gblvllmytg1extlg,13736281,1pse9ta7a45pi2w2grjim70ge,2935,"AFC Bournemouth vs Aston Villa",mfsus6ryni5b1hjn0y70sbo4,"A. Scott",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dwdgvwehx5372pi2yk6xydvdg,13736284,hzqh7z0mdl3v7gwete66syxp,9,"Fulham vs Everton",6k66e9gxbu8s7zoxb7mrtwcmh,"S. Berge",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dwrwbzl4cg5xq1ehgrt2qc1sk,13736276,7yx5dqhhphyvfisohikodajhv,2969,"Ipswich Town vs Brentford",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dwrwbzl4cg5xq1ehgrt2qc1sk,13736276,7yx5dqhhphyvfisohikodajhv,2969,"Ipswich Town vs Brentford",bxjc2heo4ve54cyvw98qcck45,"Y. Wissa",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,dx6fwnxv4x0pe5bzhxqde83kk,13736300,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Arsenal",5tbz2hexz7vind39ot6govqzu,"C. Bradley",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dy1053oicjyq6hgv4k0udy8t0,13736260,9q0arba2kbnywth8bkxlhgmdr,7,"Newcastle United vs Chelsea",1zxwich342p8fholev7ddkwh6,"E. Fernández",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dy1053oicjyq6hgv4k0udy8t0,13736260,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Chelsea",37d7oej48pb143o5eilue1hhx,"J. Murphy",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dy1053oicjyq6hgv4k0udy8t0,13736260,9q0arba2kbnywth8bkxlhgmdr,7,"Newcastle United vs Chelsea",573hlc6devy50gjotyav9ql4a,"L. Colwill",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dy1053oicjyq6hgv4k0udy8t0,13736260,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Chelsea",72m84nwa6dshu3ibmy13dz5rd,"Bruno Guimarães",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dy1053oicjyq6hgv4k0udy8t0,13736260,9q0arba2kbnywth8bkxlhgmdr,7,"Newcastle United vs Chelsea",amcwh6w0brmkttg4uc5qm6z9w,"N. Jackson",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dy1053oicjyq6hgv4k0udy8t0,13736260,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Chelsea",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dyfbt4jlbpg620vslgqjf96vo,13736264,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Leicester City",7zokstl625tj96c64ow4uvjyt,"O. Aina",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dyfbt4jlbpg620vslgqjf96vo,13736264,avxknfz4f6ob0rv9dbnxdzde0,5366,"Nottingham Forest vs Leicester City",9drh3w3emxjf6aah8pstsdgr8,"F. Buonanotte",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dz8azhaf7w139w61zdlm8jsb8,13736285,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Crystal Palace",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dz8azhaf7w139w61zdlm8jsb8,13736285,1c8m2ko0wxq1asfkuykurdr0y,3482,"Tottenham Hotspur vs Crystal Palace",6gxyeuqjnyj9bl4n8kz14sv6d,"J. Lerma",1,2025-05-11Z
+2kwbbcootiqqgmrzs6o5inle5,289,dzmjlns0v7p1bl5nhn3v4lpuc,13736295,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Brighton & Hove Albion",9rm3r46uzxlmuqnp0jo4danhm,"Matheus Cunha",1,2025-05-10Z
+2kwbbcootiqqgmrzs6o5inle5,289,e00tqapdtzxl61y696425zyfo,13770861,7vn2i2kd35zuetw6b38gw9jsz,15,"Arsenal vs Newcastle United",5tbabvk43ljv3z3wd9mh0y8r9,"J. Willock",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e00tqapdtzxl61y696425zyfo,13770861,7vn2i2kd35zuetw6b38gw9jsz,15,"Arsenal vs Newcastle United",6f1ljb0an6d0g4nbap6xgxsyd,"D. Burn",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e00tqapdtzxl61y696425zyfo,13770861,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Newcastle United",8585juruxxi6z8ih6kfqvrj6x,"J. Kiwior",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e00tqapdtzxl61y696425zyfo,13770861,4dsgumo7d4zupm2ugsvm4zm4d,3,"Arsenal vs Newcastle United",ed20ebhqi5c32vbbsze8r6yuh,"K. Havertz",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0f3dj6gepp1y8kl4q6t76wpg,13770876,b496gs285it6bheuikox6z9mj,4,"Aston Villa vs Tottenham Hotspur",1e9txzr9hqz94xtun6byo0vs9,"M. Cash",1,2025-05-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0tm7y3de4k220nsydyqbazo4,13770859,hzqh7z0mdl3v7gwete66syxp,9,"Brentford vs Fulham",2f79rc4i712sxstahjkq6pxp1,"B. Leno",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0tm7y3de4k220nsydyqbazo4,13770859,hzqh7z0mdl3v7gwete66syxp,9,"Brentford vs Fulham",2qy2d8xkwkbeyw5v8ljlzb845,"K. Tete",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0tm7y3de4k220nsydyqbazo4,13770859,hzqh7z0mdl3v7gwete66syxp,9,"Brentford vs Fulham",5wkso3mls5ulkilr0xzfix1p1,"J. Andersen",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0tm7y3de4k220nsydyqbazo4,13770859,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Fulham",7j36oy8n0tu8ps0haqb4es48a,"K. Lewis-Potter",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0tm7y3de4k220nsydyqbazo4,13770859,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Fulham",8ju1opnca42o8i00wq3onzmqd,"C. Nørgaard",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e0tm7y3de4k220nsydyqbazo4,13770859,7yx5dqhhphyvfisohikodajhv,2969,"Brentford vs Fulham",bxjc2heo4ve54cyvw98qcck45,"Y. Wissa",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e185ph5ci77fznpwx3cwo7z84,13770845,e5p0ehyguld7egzhiedpdnc3w,2972,"Brighton & Hove Albion vs Liverpool",6o9mxqdmxip6ik6w6zgd7k8ut,"A. Webster",1,2025-05-19Z
+2kwbbcootiqqgmrzs6o5inle5,289,e1n3ht948psx3a83m77y6l444,13770865,6eqit8ye8aomdsrrq0hk3v7gh,13,"Chelsea vs Manchester United",3vtjjrqof5z2tjj84ehadqc45,"Bruno Fernandes",1,2025-05-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,e1n3ht948psx3a83m77y6l444,13770865,6eqit8ye8aomdsrrq0hk3v7gh,13,"Chelsea vs Manchester United",6nb8hub5usi3iasywa2fjf1lh,Casemiro,1,2025-05-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,e1n3ht948psx3a83m77y6l444,13770865,9q0arba2kbnywth8bkxlhgmdr,7,"Chelsea vs Manchester United",dl10343h8yopcgerzur5samwa,"C. Palmer",1,2025-05-16Z
+2kwbbcootiqqgmrzs6o5inle5,289,e21d7simogrkfczdjfemj1jx0,13770854,1c8m2ko0wxq1asfkuykurdr0y,3482,"Crystal Palace vs Wolverhampton Wanderers",1rz6bw398na1i3t29rop7ikt1,"J. Ward",1,2025-05-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,e2frv3kvg7kam9foy78f20x78,13770857,ehd2iemqmschhj2ec0vayztzz,8,"Everton vs Southampton",15948izygnu32cu1pw6h5wp9l,"J. Garner",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e3a7xq71soi9su8znttgmkjkk,13770878,1pse9ta7a45pi2w2grjim70ge,2935,"Manchester City vs AFC Bournemouth",b3gobhr43y8oxpafvp4f8rgmh,"M. Tavernier",1,2025-05-20Z
+2kwbbcootiqqgmrzs6o5inle5,289,e3oqa9sus396yvhmsjizo65n8,13770873,1qtaiy11gswx327s0vkibf70n,6105,"West Ham United vs Nottingham Forest",4txq9os03xwnktfi0n2qdmok,Murillo,1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e3oqa9sus396yvhmsjizo65n8,13770873,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Nottingham Forest",at7mm2zrj2hjhu4bnq1f9noix,"Lucas Paquetá",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e3oqa9sus396yvhmsjizo65n8,13770873,4txjdaqveermfryvbfrr4taf7,21,"West Ham United vs Nottingham Forest",bp3apdb2ahzacq45k4mzj5jhl,"Edson Álvarez",1,2025-05-18Z
+2kwbbcootiqqgmrzs6o5inle5,289,e4w5hxt17mc4m7az4avnet7o4,13840360,4txjdaqveermfryvbfrr4taf7,21,"Ipswich Town vs West Ham United",2nz313c0ot91untg011l3pc6h,"M. Kilman",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e5aki093ytfxr4wvi4pt99slw,13840362,c8h9bw1l82s06h77xxrelzhur,11,"Liverpool vs Crystal Palace",dxze3b3fsfl814bjcs7q6wcet,"V. van Dijk",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e5qwoydk8nvhpk2fgyisdfi1g,13840354,b496gs285it6bheuikox6z9mj,4,"Manchester United vs Aston Villa",2eayhzdix8knmn810sbngsdt5,"M. Rogers",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e5qwoydk8nvhpk2fgyisdfi1g,13840354,b496gs285it6bheuikox6z9mj,4,"Manchester United vs Aston Villa",3zl1q2gk6tdmzirsyfgm38no5,"E. Martínez",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e5qwoydk8nvhpk2fgyisdfi1g,13840354,b496gs285it6bheuikox6z9mj,4,"Manchester United vs Aston Villa",57s7gfvt5btbfzm600wn7df55,"Pau Torres",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e5qwoydk8nvhpk2fgyisdfi1g,13840354,6eqit8ye8aomdsrrq0hk3v7gh,13,"Manchester United vs Aston Villa",6nb8hub5usi3iasywa2fjf1lh,Casemiro,1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e672488uaw8h4dzfjoqgw9ij8,13840363,ehd2iemqmschhj2ec0vayztzz,8,"Newcastle United vs Everton",15948izygnu32cu1pw6h5wp9l,"J. Garner",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e672488uaw8h4dzfjoqgw9ij8,13840363,ehd2iemqmschhj2ec0vayztzz,8,"Newcastle United vs Everton",7paw998ux29k7hx4t1g0wu85x,"A. Young",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e672488uaw8h4dzfjoqgw9ij8,13840363,ehd2iemqmschhj2ec0vayztzz,8,"Newcastle United vs Everton",9o1vesnpfiucpoq35ihhpstex,"V. Mykolenko",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e672488uaw8h4dzfjoqgw9ij8,13840363,ehd2iemqmschhj2ec0vayztzz,8,"Newcastle United vs Everton",ceerfv28fygp7m2euv5n5uu39,"I. Gueye",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e672488uaw8h4dzfjoqgw9ij8,13840363,7vn2i2kd35zuetw6b38gw9jsz,15,"Newcastle United vs Everton",dxxc4dioaioidmvamkzqr4b85,"F. Schär",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e6lfkyw0bc4heideuhijjd15g,13840361,9q0arba2kbnywth8bkxlhgmdr,7,"Nottingham Forest vs Chelsea",661b6x35l9b9uieqbcq7el1hx,"T. Adarabioyo",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e6lfkyw0bc4heideuhijjd15g,13840361,1qtaiy11gswx327s0vkibf70n,6105,"Nottingham Forest vs Chelsea",7zokstl625tj96c64ow4uvjyt,"O. Aina",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e7i2wj9yoz8oc8w6kaknkt3bo,13840261,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Brighton & Hove Albion",3wp8fuk07m1ph1fpmbqe7tf55,"R. Bentancur",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e7i2wj9yoz8oc8w6kaknkt3bo,13840261,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Brighton & Hove Albion",77yaqzy45dxtzicao00jxrlgq,"Pedro Porro",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e7i2wj9yoz8oc8w6kaknkt3bo,13840261,22doj4sgsocqpxw45h607udje,19,"Tottenham Hotspur vs Brighton & Hove Albion",7qy1hiitksyuaa9l0irxg240l,"B. Davies",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e7y2hbbz0d91khvu418gzrrbo,13840349,b9si1jn1lfxfund69e9ogcu2n,8150,"Wolverhampton Wanderers vs Brentford",5hu4oy1jz8k1c3ajuiueoo2ga,"João Gomes",1,2025-05-25Z
+2kwbbcootiqqgmrzs6o5inle5,289,e7y2hbbz0d91khvu418gzrrbo,13840349,7yx5dqhhphyvfisohikodajhv,2969,"Wolverhampton Wanderers vs Brentford",bxjc2heo4ve54cyvw98qcck45,"Y. Wissa",1,2025-05-25Z
